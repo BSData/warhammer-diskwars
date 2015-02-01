@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="1e65-9499-3f73-8d1a" revision="2" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Order" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="1e65-9499-3f73-8d1a" revision="3" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Order (2015.1)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
+    <entry id="9010-8557-8cab-9d0e" name=" Order Command Cards" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="2c3a-b05b-821d-b4c5" targetId="4f9c-02ca-263f-5f4f" linkType="entry group">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
     <entry id="005d-0b9c-e715-f537" name="Alarielle the Radiant" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
@@ -58,7 +70,7 @@ A: Remove a wound from target disk within short range.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="2587-4110-f175-adf4" name="Chakax" hidden="false">
+        <rule id="2587-4110-f175-adf4" name=" Chakax" hidden="false">
           <description>Hero.  Relentless.
 While engaged with a hero, this disk gains swift (Attack, Counter).
 </description>
@@ -66,7 +78,7 @@ While engaged with a hero, this disk gains swift (Attack, Counter).
         </rule>
       </rules>
       <profiles>
-        <profile id="8915-2db3-95fc-9dc6" profileTypeId="7628-fefb-3693-417e" name="Chakax" hidden="false">
+        <profile id="8915-2db3-95fc-9dc6" profileTypeId="7628-fefb-3693-417e" name=" Chakax" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -99,7 +111,7 @@ While engaged with a hero, this disk gains swift (Attack, Counter).
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="f2b7-3de7-1f6b-9d29" name="Drycha" hidden="false">
+        <rule id="f2b7-3de7-1f6b-9d29" name=" Drycha" hidden="false">
           <description>Hero. Caster. Forest.  Strider. Mobile.
 A: You can flip any number of unpinned forest allies once.
 </description>
@@ -107,7 +119,7 @@ A: You can flip any number of unpinned forest allies once.
         </rule>
       </rules>
       <profiles>
-        <profile id="e8f6-08c8-d80f-28fe" profileTypeId="7628-fefb-3693-417e" name="Drycha" hidden="false">
+        <profile id="e8f6-08c8-d80f-28fe" profileTypeId="7628-fefb-3693-417e" name=" Drycha" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -140,7 +152,7 @@ A: You can flip any number of unpinned forest allies once.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="f652-0939-f672-2a9f" name="Grombrindal the White Dwarf" hidden="false">
+        <rule id="f652-0939-f672-2a9f" name=" Grombrindal the White Dwarf" hidden="false">
           <description>Hero. Frenzy. Stalwart.
 A: : Deal 3(PD) to each disk engaged with this disk.
 </description>
@@ -148,7 +160,7 @@ A: : Deal 3(PD) to each disk engaged with this disk.
         </rule>
       </rules>
       <profiles>
-        <profile id="08ea-edb7-cd3e-44f5" profileTypeId="7628-fefb-3693-417e" name="Grombrindal the White Dwarf" hidden="false">
+        <profile id="08ea-edb7-cd3e-44f5" profileTypeId="7628-fefb-3693-417e" name=" Grombrindal the White Dwarf" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -181,14 +193,14 @@ A: : Deal 3(PD) to each disk engaged with this disk.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="16db-883b-4b12-8599" name="Karl Franz" hidden="false">
+        <rule id="16db-883b-4b12-8599" name=" Karl Franz" hidden="false">
           <description>Hero. Flying. Impact 2.
 A: Move up to 2 O from allies within long range to other unpinned, unactivated allies within long range.</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="8741-a56c-d443-1abd" profileTypeId="7628-fefb-3693-417e" name="Karl Franz" hidden="false">
+        <profile id="8741-a56c-d443-1abd" profileTypeId="7628-fefb-3693-417e" name=" Karl Franz" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -221,14 +233,14 @@ A: Move up to 2 O from allies within long range to other unpinned, unactivated a
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="d15e-de8d-5b35-2fbf" name="Luthor Huss" hidden="false">
+        <rule id="d15e-de8d-5b35-2fbf" name=" Luthor Huss" hidden="false">
           <description>Hero. Priest.
 While empowered, this disk gains frenzy and resistant (PD) (MD).</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="3bdc-a1f0-7f96-4c0d" profileTypeId="7628-fefb-3693-417e" name="Luthor Huss" hidden="false">
+        <profile id="3bdc-a1f0-7f96-4c0d" profileTypeId="7628-fefb-3693-417e" name=" Luthor Huss" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -244,18 +256,6 @@ While empowered, this disk gains frenzy and resistant (PD) (MD).</description>
         </profile>
       </profiles>
       <links/>
-    </entry>
-    <entry id="9010-8557-8cab-9d0e" name="Order Command Cards" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles/>
-      <links>
-        <link id="2c3a-b05b-821d-b4c5" targetId="4f9c-02ca-263f-5f4f" linkType="entry group">
-          <modifiers/>
-        </link>
-      </links>
     </entry>
     <entry id="2f0b-c46f-42ef-e7e3" name="Queen Helga" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -273,14 +273,14 @@ While empowered, this disk gains frenzy and resistant (PD) (MD).</description>
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="2536-4540-82c6-d085" name="Queen Helga" hidden="false">
+        <rule id="2536-4540-82c6-d085" name=" Queen Helga" hidden="false">
           <description>Hero.  Resistant (MD).  Swift (Counter).
 Each other (Drwaf) disk within short range gains swift (Attack).</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="a501-85b2-d709-0cbc" profileTypeId="7628-fefb-3693-417e" name="Queen Helga" hidden="false">
+        <profile id="a501-85b2-d709-0cbc" profileTypeId="7628-fefb-3693-417e" name=" Queen Helga" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -313,13 +313,13 @@ Each other (Drwaf) disk within short range gains swift (Attack).</description>
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="38f8-9959-db51-0944" name="Teclis" hidden="false">
+        <rule id="38f8-9959-db51-0944" name=" Teclis" hidden="false">
           <description>Hero. Caster .  Immune Magic.  Magic 4</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="15e5-f297-52cd-b858" profileTypeId="7628-fefb-3693-417e" name="Teclis" hidden="false">
+        <profile id="15e5-f297-52cd-b858" profileTypeId="7628-fefb-3693-417e" name=" Teclis" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -352,7 +352,7 @@ Each other (Drwaf) disk within short range gains swift (Attack).</description>
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="0785-c4c1-a29c-8e00" name="Thorgrim Grudgebearer" hidden="false">
+        <rule id="0785-c4c1-a29c-8e00" name=" Thorgrim Grudgebearer" hidden="false">
           <description>Hero.  Resistant (MD).
 This disk gains impact 1 for each small (Dwarf) disk in your casualty pile.
 </description>
@@ -360,7 +360,7 @@ This disk gains impact 1 for each small (Dwarf) disk in your casualty pile.
         </rule>
       </rules>
       <profiles>
-        <profile id="ac98-8baf-fd48-b9aa" profileTypeId="7628-fefb-3693-417e" name="Thorgrim Grudgebearer" hidden="false">
+        <profile id="ac98-8baf-fd48-b9aa" profileTypeId="7628-fefb-3693-417e" name=" Thorgrim Grudgebearer" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
@@ -393,7 +393,7 @@ This disk gains impact 1 for each small (Dwarf) disk in your casualty pile.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="a06c-fbf4-7e97-0a81" name="Tyrion" hidden="false">
+        <rule id="a06c-fbf4-7e97-0a81" name=" Tyrion" hidden="false">
           <description>Hero.
 When this disk engages an enemy, roll a d6. If  you roll 6, deal that enemy a wound.
 </description>
@@ -401,7 +401,7 @@ When this disk engages an enemy, roll a d6. If  you roll 6, deal that enemy a wo
         </rule>
       </rules>
       <profiles>
-        <profile id="a73c-77ce-6a8d-ff4a" profileTypeId="7628-fefb-3693-417e" name="Tyrion" hidden="false">
+        <profile id="a73c-77ce-6a8d-ff4a" profileTypeId="7628-fefb-3693-417e" name=" Tyrion" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -434,14 +434,14 @@ When this disk engages an enemy, roll a d6. If  you roll 6, deal that enemy a wo
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="391e-6239-6138-130b" name="Volkmar the Grim" hidden="false">
+        <rule id="391e-6239-6138-130b" name=" Volkmar the Grim" hidden="false">
           <description>Hero. Priest. Mobile.
 A: Empower target disk within short range.</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="8b37-d712-cf9c-5c56" profileTypeId="7628-fefb-3693-417e" name="Volkmar the Grim" hidden="false">
+        <profile id="8b37-d712-cf9c-5c56" profileTypeId="7628-fefb-3693-417e" name=" Volkmar the Grim" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -1003,14 +1003,14 @@ A: Empower target disk within short range.</description>
       <entryGroups>
         <entryGroup id="adf6-5923-a497-6fc4" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="7432-f383-8a50-66db" name="Flame Cannon " points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="7432-f383-8a50-66db" name="Flame Cannon " points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules>
                 <rule id="29c4-7123-80ee-5d93" name="Flame Cannon " hidden="false">
                   <description>War Machine. Stalwart.
-S: Medium 1D 6(PD). If this disk rolls a (Hit) or (Critical Hit) during a ranged attack, deal 2(PD) to each other disk within short range of the target.</description>
+S: Medium, 1D, 6(PD). If this disk rolls a (Hit) or (Critical Hit) during a ranged attack, deal 2(PD) to each other disk within short range of the target.</description>
                   <modifiers/>
                 </rule>
               </rules>
@@ -1046,7 +1046,7 @@ S: Medium 1D 6(PD). If this disk rolls a (Hit) or (Critical Hit) during a ranged
               <rules>
                 <rule id="5af0-33cb-7321-a7b1" name="Runic Cannon" hidden="false">
                   <description>Elite. War Machine.
-S: Siege. 2D 4(PD). Each (Hit) or (Critical Hit) also counts as (Scatter).
+S: Siege, 2D, 4(PD). Each (Hit) or (Critical Hit) also counts as (Scatter).
 </description>
                   <modifiers/>
                 </rule>
@@ -1083,7 +1083,7 @@ S: Siege. 2D 4(PD). Each (Hit) or (Critical Hit) also counts as (Scatter).
               <rules>
                 <rule id="f74f-cf3f-674d-d02a" name="Gyrocopter" hidden="false">
                   <description>Elite. War Machine. Flying. Mobile. Stalwart.
-S: Medium. 1D 4(PD).
+S: Medium, 1D, 4(PD).
 </description>
                   <modifiers/>
                 </rule>
@@ -1243,7 +1243,7 @@ This disk can reinforce overlapping any terrain if it does not pin an enemy.
               <rules>
                 <rule id="a9bf-0cb7-4e37-05d1" name="Karaz-a-Karak Thunderers" hidden="false">
                   <description>Missile.
-S: Medium. 2D 4(PD).
+S: Medium, 2D, 4(PD).
 </description>
                   <modifiers/>
                 </rule>

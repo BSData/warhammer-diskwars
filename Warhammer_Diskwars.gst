@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="9114-aa47-3cd9-0e45" revision="1" battleScribeVersion="1.15" name="Warhammer Diskwars" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="9114-aa47-3cd9-0e45" revision="2" battleScribeVersion="1.15" name="Warhammer Diskwars" books="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <forceTypes>
     <forceType id="a027-1c3e-2543-a06e" name="Standard" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
       <categories>

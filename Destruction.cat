@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="2085-64da-8674-6dda" revision="2" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Destruction" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="2085-64da-8674-6dda" revision="3" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Destruction (2015.1)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
+    <entry id="2cdc-6500-39fe-3fef" name=" Destruction Command Cards" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="f300-10a4-53e3-88bd" targetId="89f6-fc1c-27f0-8822" linkType="entry group">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
     <entry id="885a-4a75-7079-f4bc" name="Archaon the Everchosen" points="0.0" categoryId="3db3-9cc8-9919-873c" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
@@ -17,7 +29,7 @@
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="8bf6-d30d-50b6-45d7" name="Archaon the Everchosen" hidden="false">
+        <rule id="8bf6-d30d-50b6-45d7" name=" Archaon the Everchosen" hidden="false">
           <description>Hero. Caster. Impact 2.
 When this disk engages an enemy, deal 1(MD) to each enemy within short range.
 </description>
@@ -25,7 +37,7 @@ When this disk engages an enemy, deal 1(MD) to each enemy within short range.
         </rule>
       </rules>
       <profiles>
-        <profile id="c118-11e6-3a8a-c4b2" profileTypeId="7628-fefb-3693-417e" name="Archaon the Everchosen" hidden="false">
+        <profile id="c118-11e6-3a8a-c4b2" profileTypeId="7628-fefb-3693-417e" name=" Archaon the Everchosen" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -58,14 +70,14 @@ When this disk engages an enemy, deal 1(MD) to each enemy within short range.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="dc91-6427-1dcb-88dd" name="Azhag the Slaughterer " hidden="false">
+        <rule id="dc91-6427-1dcb-88dd" name=" Azhag the Slaughterer " hidden="false">
           <description>Hero. Caster. Flying. Frenzy.
  </description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="199c-2fae-eec8-da16" profileTypeId="7628-fefb-3693-417e" name="Azhag the Slaughterer " hidden="false">
+        <profile id="199c-2fae-eec8-da16" profileTypeId="7628-fefb-3693-417e" name=" Azhag the Slaughterer " hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
@@ -81,18 +93,6 @@ When this disk engages an enemy, deal 1(MD) to each enemy within short range.
         </profile>
       </profiles>
       <links/>
-    </entry>
-    <entry id="2cdc-6500-39fe-3fef" name="Destruction Command Cards" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
-      <entryGroups/>
-      <modifiers/>
-      <rules/>
-      <profiles/>
-      <links>
-        <link id="f300-10a4-53e3-88bd" targetId="89f6-fc1c-27f0-8822" linkType="entry group">
-          <modifiers/>
-        </link>
-      </links>
     </entry>
     <entry id="b50b-f7d9-96c2-402f" name="Grimgor Ironhide" points="0.0" categoryId="5d3a-1842-7c80-94c0" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -110,7 +110,7 @@ When this disk engages an enemy, deal 1(MD) to each enemy within short range.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="be4e-a512-1706-a687" name="Grimgor Ironhide" hidden="false">
+        <rule id="be4e-a512-1706-a687" name=" Grimgor Ironhide" hidden="false">
           <description>Hero. Swift (Attack).
 When this disk takes a Wound, remove (Activation Token) from it, if  able.
 </description>
@@ -118,7 +118,7 @@ When this disk takes a Wound, remove (Activation Token) from it, if  able.
         </rule>
       </rules>
       <profiles>
-        <profile id="d9ff-c1ff-3d30-2810" profileTypeId="7628-fefb-3693-417e" name="Grimgor Ironhide" hidden="false">
+        <profile id="d9ff-c1ff-3d30-2810" profileTypeId="7628-fefb-3693-417e" name=" Grimgor Ironhide" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -151,14 +151,14 @@ When this disk takes a Wound, remove (Activation Token) from it, if  able.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="2896-d03c-1c9e-6694" name="Grom the Paunch" hidden="false">
+        <rule id="2896-d03c-1c9e-6694" name=" Grom the Paunch" hidden="false">
           <description>Hero. Impact 3. Relentless.
  </description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="59b6-e1ae-71ee-2ed3" profileTypeId="7628-fefb-3693-417e" name="Grom the Paunch" hidden="false">
+        <profile id="59b6-e1ae-71ee-2ed3" profileTypeId="7628-fefb-3693-417e" name=" Grom the Paunch" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -175,7 +175,7 @@ When this disk takes a Wound, remove (Activation Token) from it, if  able.
       </profiles>
       <links/>
     </entry>
-    <entry id="0a3e-783c-5337-5757" name="Heinrich Kemmler  " points="0.0" categoryId="0567-e794-9171-93ba" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="0a3e-783c-5337-5757" name="Heinrich Kemmler" points="0.0" categoryId="0567-e794-9171-93ba" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
         <entryGroup id="6902-a5ea-ffbc-8421" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
@@ -191,7 +191,7 @@ When this disk takes a Wound, remove (Activation Token) from it, if  able.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="2a9e-6e3c-8d27-9ea5" name="Heinrich Kemmler  " hidden="false">
+        <rule id="2a9e-6e3c-8d27-9ea5" name=" Heinrich Kemmler  " hidden="false">
           <description>Hero. Caster. Magic 3. Reanimate 1.
 This disk can use reanimate to reinforce up to 3 &quot;Skeleton&quot; disks.
 </description>
@@ -199,7 +199,7 @@ This disk can use reanimate to reinforce up to 3 &quot;Skeleton&quot; disks.
         </rule>
       </rules>
       <profiles>
-        <profile id="79fc-f2d5-342b-64c8" profileTypeId="7628-fefb-3693-417e" name="Heinrich Kemmler  " hidden="false">
+        <profile id="79fc-f2d5-342b-64c8" profileTypeId="7628-fefb-3693-417e" name=" Heinrich Kemmler  " hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -232,7 +232,7 @@ This disk can use reanimate to reinforce up to 3 &quot;Skeleton&quot; disks.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="ffdf-8be1-85d1-24a8" name="Ikit Claw" hidden="false">
+        <rule id="ffdf-8be1-85d1-24a8" name=" Ikit Claw" hidden="false">
           <description>Hero. Caster. Magic 3.
 This disk can use magic to target an enemy within long range.
 </description>
@@ -240,7 +240,7 @@ This disk can use magic to target an enemy within long range.
         </rule>
       </rules>
       <profiles>
-        <profile id="9fe6-f3bb-1f2a-1a53" profileTypeId="7628-fefb-3693-417e" name="Ikit Claw" hidden="false">
+        <profile id="9fe6-f3bb-1f2a-1a53" profileTypeId="7628-fefb-3693-417e" name=" Ikit Claw" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -273,7 +273,7 @@ This disk can use magic to target an enemy within long range.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="426b-193c-b7fb-f30e" name="Isabella Von Carstein  " hidden="false">
+        <rule id="426b-193c-b7fb-f30e" name=" Isabella Von Carstein  " hidden="false">
           <description>Hero. Caster. Magic 2. Mobile.
 A: Remove a Wound from this disk.
 </description>
@@ -281,7 +281,7 @@ A: Remove a Wound from this disk.
         </rule>
       </rules>
       <profiles>
-        <profile id="944b-8086-2c55-6e21" profileTypeId="7628-fefb-3693-417e" name="Isabella Von Carstein  " hidden="false">
+        <profile id="944b-8086-2c55-6e21" profileTypeId="7628-fefb-3693-417e" name=" Isabella Von Carstein  " hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -355,7 +355,7 @@ A: Reinforce a daemonic disk within medium  range.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="0cb6-99ae-0adf-be2e" name="Lokhir Fellheart" hidden="false">
+        <rule id="0cb6-99ae-0adf-be2e" name=" Lokhir Fellheart" hidden="false">
           <description>Hero. Fear. Frenzy.
 While this disk is on the battlefield &quot;Corsairs&quot; disks in your reserve gain flank.
 </description>
@@ -363,7 +363,7 @@ While this disk is on the battlefield &quot;Corsairs&quot; disks in your reserve
         </rule>
       </rules>
       <profiles>
-        <profile id="8039-c1f5-e38a-10c3" profileTypeId="7628-fefb-3693-417e" name="Lokhir Fellheart" hidden="false">
+        <profile id="8039-c1f5-e38a-10c3" profileTypeId="7628-fefb-3693-417e" name=" Lokhir Fellheart" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -436,7 +436,7 @@ While this disk is on the battlefield &quot;Corsairs&quot; disks in your reserve
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="682a-565e-0a89-59d5" name="Valkia the Bloody " hidden="false">
+        <rule id="682a-565e-0a89-59d5" name=" Valkia the Bloody " hidden="false">
           <description>Hero. Daemonic. Flying. Swift (Attack).
 While Empowered, this disk gains swift (Counter).
 </description>
@@ -444,7 +444,7 @@ While Empowered, this disk gains swift (Counter).
         </rule>
       </rules>
       <profiles>
-        <profile id="fff2-5cc8-663d-72e6" profileTypeId="7628-fefb-3693-417e" name="Valkia the Bloody " hidden="false">
+        <profile id="fff2-5cc8-663d-72e6" profileTypeId="7628-fefb-3693-417e" name=" Valkia the Bloody " hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
