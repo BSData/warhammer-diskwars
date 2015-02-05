@@ -1472,10 +1472,10 @@ When this disk engages an enemy, remove up to 2 Activation Tokens from &quot;Boy
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
                     <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="4"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="-"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
                     <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
                     <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
                   </characteristics>

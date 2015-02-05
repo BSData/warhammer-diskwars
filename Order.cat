@@ -195,7 +195,7 @@ A: : Deal 3(PD) to each disk engaged with this disk.
       <rules>
         <rule id="16db-883b-4b12-8599" name=" Karl Franz" hidden="false">
           <description>Hero. Flying. Impact 2.
-A: Move up to 2 O from allies within long range to other unpinned, unactivated allies within long range.</description>
+A: Move up to 2(Activation Tokens) from allies within long range to other unpinned, unactivated allies within long range.</description>
           <modifiers/>
         </rule>
       </rules>

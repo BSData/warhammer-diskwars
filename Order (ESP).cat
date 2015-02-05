@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <catalogue id="1e65-9499-3f73-8d1a" revision="3" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Order (2015.1)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
-    <entry id="9010-8557-8cab-9d0e" name=" Order Command Cards" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="9010-8557-8cab-9d0e" name=" Cartas de Mando del Orden" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -13,10 +13,10 @@
         </link>
       </links>
     </entry>
-    <entry id="005d-0b9c-e715-f537" name="Alarielle the Radiant" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="005d-0b9c-e715-f537" name="Alarielle la Radiante" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="8ee7-294f-5c43-3d4f" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="35.0" collective="false" hidden="false">
+        <entryGroup id="8ee7-294f-5c43-3d4f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="35.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -29,15 +29,15 @@
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="e4cc-a487-b507-f907" name=" Alarielle the Radiant" hidden="false">
-          <description>Hero. Caster. Magic 2. Swift (Counter) .
-A: Remove a wound from target disk within short range.
+        <rule id="e4cc-a487-b507-f907" name=" Alarielle la Radiante" hidden="false">
+          <description>Héroe. Hechicero. Magia 2. Veloz (Contraataque).
+A: Quita una ficha de herida de un disco objetivo situado a corto alcance.
 </description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="560c-f1ac-6395-83d1" profileTypeId="7628-fefb-3693-417e" name=" Alarielle the Radiant" hidden="false">
+        <profile id="560c-f1ac-6395-83d1" profileTypeId="7628-fefb-3693-417e" name=" Alarielle la Radiante" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -57,7 +57,7 @@ A: Remove a wound from target disk within short range.
     <entry id="805c-f4b6-1d73-8aad" name="Chakax" points="0.0" categoryId="b2b6-5ff9-51bf-9e4b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="d288-b815-4269-b4bb" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="d288-b815-4269-b4bb" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -71,8 +71,8 @@ A: Remove a wound from target disk within short range.
       <modifiers/>
       <rules>
         <rule id="2587-4110-f175-adf4" name=" Chakax" hidden="false">
-          <description>Hero.  Relentless.
-While engaged with a hero, this disk gains swift (Attack, Counter).
+          <description>Héroe.  Implacable.
+Mientres esté trabado con un héroe, este disco gana veloz (Ataque, Contraataque)
 </description>
           <modifiers/>
         </rule>
@@ -98,7 +98,7 @@ While engaged with a hero, this disk gains swift (Attack, Counter).
     <entry id="b11b-296a-bbe1-9afc" name="Drycha" points="0.0" categoryId="4b1f-d921-fad9-bd04" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="7739-24d0-bd15-b74b" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="7739-24d0-bd15-b74b" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -112,8 +112,8 @@ While engaged with a hero, this disk gains swift (Attack, Counter).
       <modifiers/>
       <rules>
         <rule id="f2b7-3de7-1f6b-9d29" name=" Drycha" hidden="false">
-          <description>Hero. Caster. Forest.  Strider. Mobile.
-A: You can flip any number of unpinned forest allies once.
+          <description>Héroe. Hechicero. Forestal. Zancada. Movilidad.
+A: Puedes girar una vez cualquier numero de bosques aliados no trabados.
 </description>
           <modifiers/>
         </rule>
@@ -136,10 +136,10 @@ A: You can flip any number of unpinned forest allies once.
       </profiles>
       <links/>
     </entry>
-    <entry id="3e70-0ab1-8d0c-b8ad" name="Grombrindal the White Dwarf" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="3e70-0ab1-8d0c-b8ad" name="Grombrindal el Enano Blanco" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="4ef4-6d9f-6e45-f9af" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="4ef4-6d9f-6e45-f9af" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -152,15 +152,15 @@ A: You can flip any number of unpinned forest allies once.
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="f652-0939-f672-2a9f" name=" Grombrindal the White Dwarf" hidden="false">
-          <description>Hero. Frenzy. Stalwart.
-A: : Deal 3(PD) to each disk engaged with this disk.
+        <rule id="f652-0939-f672-2a9f" name=" Grombrindal el Enano Blanco" hidden="false">
+          <description>Héroe. Furia asesina. Firmeza.
+A: Inflinje 3(DF) a cada disco trabado con este disco.
 </description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="08ea-edb7-cd3e-44f5" profileTypeId="7628-fefb-3693-417e" name=" Grombrindal the White Dwarf" hidden="false">
+        <profile id="08ea-edb7-cd3e-44f5" profileTypeId="7628-fefb-3693-417e" name=" Grombrindal el Enano Blanco" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -180,7 +180,7 @@ A: : Deal 3(PD) to each disk engaged with this disk.
     <entry id="b59d-07ae-4d32-973a" name="Karl Franz" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="0.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="b710-2aec-fd6b-6250" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="b710-2aec-fd6b-6250" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -194,8 +194,9 @@ A: : Deal 3(PD) to each disk engaged with this disk.
       <modifiers/>
       <rules>
         <rule id="16db-883b-4b12-8599" name=" Karl Franz" hidden="false">
-          <description>Hero. Flying. Impact 2.
-A: Move up to 2 O from allies within long range to other unpinned, unactivated allies within long range.</description>
+          <description>Héroe. Volador. Acometida 2.
+A: Mueve un máximo de 2 (Ficha Activación) desde aliados situados a largo alcance o inferior hasta otros aliados no activados ni trabados que estén a largo alcance o inferior.
+</description>
           <modifiers/>
         </rule>
       </rules>
@@ -220,7 +221,7 @@ A: Move up to 2 O from allies within long range to other unpinned, unactivated a
     <entry id="8772-6866-30e1-364b" name="Luthor Huss" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="66fb-e7ef-5444-d650" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="66fb-e7ef-5444-d650" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -234,8 +235,8 @@ A: Move up to 2 O from allies within long range to other unpinned, unactivated a
       <modifiers/>
       <rules>
         <rule id="d15e-de8d-5b35-2fbf" name=" Luthor Huss" hidden="false">
-          <description>Hero. Priest.
-While empowered, this disk gains frenzy and resistant (PD) (MD).</description>
+          <description>Héroe. Sacerdote.
+Mientras este potenciado, ete disco gana furia asesina y resistencia (DF) (DM).</description>
           <modifiers/>
         </rule>
       </rules>
@@ -257,7 +258,7 @@ While empowered, this disk gains frenzy and resistant (PD) (MD).</description>
       </profiles>
       <links/>
     </entry>
-    <entry id="2f0b-c46f-42ef-e7e3" name="Queen Helga" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="2f0b-c46f-42ef-e7e3" name="Reina Helga" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
         <entryGroup id="4a6a-0e88-c70b-18f1" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
@@ -273,14 +274,15 @@ While empowered, this disk gains frenzy and resistant (PD) (MD).</description>
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="2536-4540-82c6-d085" name=" Queen Helga" hidden="false">
-          <description>Hero.  Resistant (MD).  Swift (Counter).
-Each other (Drwaf) disk within short range gains swift (Attack).</description>
+        <rule id="2536-4540-82c6-d085" name=" Reina Helga" hidden="false">
+          <description>Héroe. Resistente a (DM). Veloz (Contraataque).
+Cada disco (Enano) situado a corto alcance gana Veloz (Ataque).
+</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="a501-85b2-d709-0cbc" profileTypeId="7628-fefb-3693-417e" name=" Queen Helga" hidden="false">
+        <profile id="a501-85b2-d709-0cbc" profileTypeId="7628-fefb-3693-417e" name=" Reina Helga" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -300,7 +302,7 @@ Each other (Drwaf) disk within short range gains swift (Attack).</description>
     <entry id="1646-0c63-03a0-14d9" name="Teclis" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="83b3-6b65-64ee-ce59" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="83b3-6b65-64ee-ce59" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -314,7 +316,8 @@ Each other (Drwaf) disk within short range gains swift (Attack).</description>
       <modifiers/>
       <rules>
         <rule id="38f8-9959-db51-0944" name=" Teclis" hidden="false">
-          <description>Hero. Caster .  Immune Magic.  Magic 4</description>
+          <description>Héroe. Hechicero. Inmune a (DM). Magia 4.
+</description>
           <modifiers/>
         </rule>
       </rules>
@@ -336,10 +339,10 @@ Each other (Drwaf) disk within short range gains swift (Attack).</description>
       </profiles>
       <links/>
     </entry>
-    <entry id="0887-dd4d-5978-fe3a" name="Thorgrim Grudgebearer" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="0887-dd4d-5978-fe3a" name="Thorgrim Custodio de Agravios" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="4950-20fd-3f7c-955f" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="32.0" collective="false" hidden="false">
+        <entryGroup id="4950-20fd-3f7c-955f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="32.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -352,15 +355,15 @@ Each other (Drwaf) disk within short range gains swift (Attack).</description>
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="0785-c4c1-a29c-8e00" name=" Thorgrim Grudgebearer" hidden="false">
-          <description>Hero.  Resistant (MD).
-This disk gains impact 1 for each small (Dwarf) disk in your casualty pile.
+        <rule id="0785-c4c1-a29c-8e00" name=" Thorgrim Custodio de Agravios" hidden="false">
+          <description>Héroe. Resistente a (DM).
+Este disco gana Acometida 1 por cada disco (Enano) pequeño que haya en la pila de bajas.
 </description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="ac98-8baf-fd48-b9aa" profileTypeId="7628-fefb-3693-417e" name=" Thorgrim Grudgebearer" hidden="false">
+        <profile id="ac98-8baf-fd48-b9aa" profileTypeId="7628-fefb-3693-417e" name=" Thorgrim Custodio de Agravios" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
@@ -380,7 +383,7 @@ This disk gains impact 1 for each small (Dwarf) disk in your casualty pile.
     <entry id="ea95-b159-fa7a-48d1" name="Tyrion" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="497b-8dfe-d49e-1ee6" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="497b-8dfe-d49e-1ee6" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -394,8 +397,8 @@ This disk gains impact 1 for each small (Dwarf) disk in your casualty pile.
       <modifiers/>
       <rules>
         <rule id="a06c-fbf4-7e97-0a81" name=" Tyrion" hidden="false">
-          <description>Hero.
-When this disk engages an enemy, roll a d6. If  you roll 6, deal that enemy a wound.
+          <description>Héroe.
+Cuando este disco se enfrente a un enemigo, tira 1d6. Si sacas 6, inflinje una (herida) a ese enemigo.
 </description>
           <modifiers/>
         </rule>
@@ -418,10 +421,10 @@ When this disk engages an enemy, roll a d6. If  you roll 6, deal that enemy a wo
       </profiles>
       <links/>
     </entry>
-    <entry id="4cde-fc0a-9207-ba5f" name="Volkmar the Grim" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="4cde-fc0a-9207-ba5f" name="Volkmar el Sombrío" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="9f52-e6f7-bab9-885e" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="36.0" collective="false" hidden="false">
+        <entryGroup id="9f52-e6f7-bab9-885e" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="36.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -434,14 +437,14 @@ When this disk engages an enemy, roll a d6. If  you roll 6, deal that enemy a wo
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="391e-6239-6138-130b" name=" Volkmar the Grim" hidden="false">
-          <description>Hero. Priest. Mobile.
-A: Empower target disk within short range.</description>
+        <rule id="391e-6239-6138-130b" name=" Volkmar el Sombrío" hidden="false">
+          <description>Héroe. Sacerdote. Movilidad.
+A: Potencia un disco objetivo situado a alcance corto.</description>
           <modifiers/>
         </rule>
       </rules>
       <profiles>
-        <profile id="8b37-d712-cf9c-5c56" profileTypeId="7628-fefb-3693-417e" name=" Volkmar the Grim" hidden="false">
+        <profile id="8b37-d712-cf9c-5c56" profileTypeId="7628-fefb-3693-417e" name=" Volkmar el Sombrío" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
