@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="1e65-9499-3f73-8d1a" revision="3" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Order (2015.1)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="7b5b-45d9-7710-80c5" revision="4" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Orden ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="9010-8557-8cab-9d0e" name=" Cartas de Mando del Orden" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -469,18 +469,18 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
     <entryGroup id="4f9c-02ca-263f-5f4f" name=" Cartas de Mando" minSelections="2" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="dfe3-24c8-8346-8b1e" name=" Common" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="dfe3-24c8-8346-8b1e" name=" Comunes" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="3157-62ff-39bf-dd89" name="Attack" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3157-62ff-39bf-dd89" name="Ataque" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="4807-3105-a07c-19eb" profileTypeId="2ebf-f44d-b096-fa7d" name="Attack" hidden="false">
+                <profile id="4807-3105-a07c-19eb" profileTypeId="2ebf-f44d-b096-fa7d" name="Ataque" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
                     <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
@@ -489,16 +489,16 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="4ab1-1bd7-7c1a-4b93" name="Assault" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4ab1-1bd7-7c1a-4b93" name="Asalto" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="d822-462a-e952-3335" profileTypeId="2ebf-f44d-b096-fa7d" name="Assault" hidden="false">
+                <profile id="d822-462a-e952-3335" profileTypeId="2ebf-f44d-b096-fa7d" name="Asalto" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
                     <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
@@ -507,16 +507,16 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="abdf-5761-d335-27c5" name="Approach" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="abdf-5761-d335-27c5" name="Aproximación" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="b203-e273-e0dd-82de" profileTypeId="2ebf-f44d-b096-fa7d" name="Approach" hidden="false">
+                <profile id="b203-e273-e0dd-82de" profileTypeId="2ebf-f44d-b096-fa7d" name="Aproximación" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
                     <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
@@ -525,17 +525,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="5fd0-ae99-54f3-129e" name="Stall" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="5fd0-ae99-54f3-129e" name="Ganar tiempo" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="2c97-c690-597b-f749" profileTypeId="2ebf-f44d-b096-fa7d" name="Stall" hidden="false">
+                <profile id="2c97-c690-597b-f749" profileTypeId="2ebf-f44d-b096-fa7d" name="Ganar tiempo" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hero: Empower target disk within medium range."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Héoe: Potencia un disco objetivo situado a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -543,17 +543,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="582c-d499-f9ca-ff01" name="Push" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="582c-d499-f9ca-ff01" name="Brío" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="6e8c-f49e-e34f-d3d2" profileTypeId="2ebf-f44d-b096-fa7d" name="Push" hidden="false">
+                <profile id="6e8c-f49e-e34f-d3d2" profileTypeId="2ebf-f44d-b096-fa7d" name="Brío" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hero: Empower target disk within medium range."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Héoe: Potencia un disco objetivo situado a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -561,17 +561,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="b30a-f782-04fe-84c3" name="Lure" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b30a-f782-04fe-84c3" name="Cebo" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="23fe-d960-77b6-a597" profileTypeId="2ebf-f44d-b096-fa7d" name="Lure" hidden="false">
+                <profile id="23fe-d960-77b6-a597" profileTypeId="2ebf-f44d-b096-fa7d" name="Cebo" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hero: Empower target disk within medium range."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Héoe: Potencia un disco objetivo situado a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -579,17 +579,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="6073-7538-85ed-ccbf" name="Inspire" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="6073-7538-85ed-ccbf" name="Inspirar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="79c7-0e12-6718-e535" profileTypeId="2ebf-f44d-b096-fa7d" name="Inspire" hidden="false">
+                <profile id="79c7-0e12-6718-e535" profileTypeId="2ebf-f44d-b096-fa7d" name="Inspirar" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hero:  Empower target disk within medium range. "/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Héoe: Potencia un disco objetivo situado a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -597,16 +597,16 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="1a47-ba69-6784-9479" name="Entrap" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="1a47-ba69-6784-9479" name="Acorralar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="059d-ab68-648f-28e6" profileTypeId="2ebf-f44d-b096-fa7d" name="Entrap" hidden="false">
+                <profile id="059d-ab68-648f-28e6" profileTypeId="2ebf-f44d-b096-fa7d" name="Acorralar" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
                     <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
@@ -615,17 +615,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="7df0-02de-02cc-6d61" name="Eager Troops" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="7df0-02de-02cc-6d61" name="Tropas Ansiosas" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="ba43-a994-ab5b-4bd8" profileTypeId="2ebf-f44d-b096-fa7d" name="Eager Troops" hidden="false">
+                <profile id="ba43-a994-ab5b-4bd8" profileTypeId="2ebf-f44d-b096-fa7d" name="Tropas Ansiosas" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Each disk activated with this command gains 1 movement."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Todos los discos activados con esta carta ganan 1 al Movimiento."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -633,17 +633,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="b158-5c63-e5fb-bcf0" name="Arcane Attack" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b158-5c63-e5fb-bcf0" name="Ataque Arcano" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="7e28-f35b-52c1-ca2e" profileTypeId="2ebf-f44d-b096-fa7d" name="Arcane Attack" hidden="false">
+                <profile id="7e28-f35b-52c1-ca2e" profileTypeId="2ebf-f44d-b096-fa7d" name="Ataque Arcano" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Unstable.Caster: Deal d6-1(MD) to target disk within medium range. "/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Inestable. Hechicero: Inflinje d6-1(DM) a un disco objetivo situado a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -651,17 +651,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="366f-ce93-d4bc-ea0d" name="Grim Resolve" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="366f-ce93-d4bc-ea0d" name="Resolución severa" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="09bb-801e-d272-be27" profileTypeId="2ebf-f44d-b096-fa7d" name="Grim Resolve" hidden="false">
+                <profile id="09bb-801e-d272-be27" profileTypeId="2ebf-f44d-b096-fa7d" name="Resolución severa" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Order Only.Hero: Target disk within medium range gains immune (fear) and +2 (Counter) until the end of the round."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Sólo Orden. Heroe. El disco objetivo situado a alcance medio o inferior, obtiene inmunidad al Miedo y +2 al Contraataque hasta el final de la ronda."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
                   </characteristics>
                   <modifiers/>
@@ -669,17 +669,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="7ce0-4c63-ac20-e0df" name="Rally" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="7ce0-4c63-ac20-e0df" name="Reagrupamiento" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="6ee2-098e-c332-cbcd" profileTypeId="2ebf-f44d-b096-fa7d" name="Rally" hidden="false">
+                <profile id="6ee2-098e-c332-cbcd" profileTypeId="2ebf-f44d-b096-fa7d" name="Reagrupamiento" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Order Only. Hero: Remove Activation Token from target non-hero disk within short range. "/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Sólo Orden. Héroe: Quita una Ficha de Activación de un disco objetivo que no sea Héroe y se encuentre situado a corto alcance o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -692,19 +692,19 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="97d3-89b3-c353-8036" name="Empire" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="97d3-89b3-c353-8036" name="Imperio" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="dc6f-6e0a-75c9-46db" name="Fulminating Cage" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="dc6f-6e0a-75c9-46db" name="Jaula Fulminadora" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="9e45-c065-d320-d33d" profileTypeId="2ebf-f44d-b096-fa7d" name="Fulminating Cage" hidden="false">
+                <profile id="9e45-c065-d320-d33d" profileTypeId="2ebf-f44d-b096-fa7d" name="Jaula Fulminadora" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Empire Caster: Deal d6-2(MD) to target disk within medium range. Until the end of the round, each time that disk flips, roll the six-sided dice again and deal it d6-2(MD)."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Imperial: Infije d6-2(DM) a un disco objetivo situado a alcance medio o inferior. Hasta el final de la ronda, cada vez que ese disco sea volteado, sufre otro d6-2."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -712,17 +712,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="f155-557d-65f9-558f" name="Garrison" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="f155-557d-65f9-558f" name="Acuartelamiento" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="ae74-a92e-fb0e-2b7e" profileTypeId="2ebf-f44d-b096-fa7d" name="Garrison" hidden="false">
+                <profile id="ae74-a92e-fb0e-2b7e" profileTypeId="2ebf-f44d-b096-fa7d" name="Acuartelamiento" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Activations Tokens are not placed on Empire disks reinforced with this command."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="No se colocan Fichas de Activación sobre los discos Imperiales introducidos como refuezo mediante esta carta."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -730,17 +730,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="98e6-6c7c-bafb-fc28" name="Myrmidia’s Blessing" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="98e6-6c7c-bafb-fc28" name="Bendición de Myrmidia" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="c355-9279-ad1b-f0be" profileTypeId="2ebf-f44d-b096-fa7d" name="Myrmidia’s Blessing" hidden="false">
+                <profile id="c355-9279-ad1b-f0be" profileTypeId="2ebf-f44d-b096-fa7d" name="Bendición de Myrmidia" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="One Empire disk activated with this command gains +2 Movement. "/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Un diso Imperio acativado con esta carta gana +2 Movimiento."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -748,17 +748,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="2ea2-acda-c7c0-ebfa" name="Shield of Faith" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="2ea2-acda-c7c0-ebfa" name="Escudo de Fe" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="ab1e-8699-22ba-e997" profileTypeId="2ebf-f44d-b096-fa7d" name="Shield of Faith" hidden="false">
+                <profile id="ab1e-8699-22ba-e997" profileTypeId="2ebf-f44d-b096-fa7d" name="Escudo de Fe" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Empire Priest: Until the end of the round, each time this disk would be removed as a casualty, roll a d6. On a 4+ remove all (Damage) on this disk instead."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Sacerdote Imperial: Hasta el final de la ronda, cada vez que un disco deba de ser retirado como baja, tira un d6.Con un 4+ elimina todas las ficha de daño de ese disco.."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
                   </characteristics>
                   <modifiers/>
@@ -771,19 +771,166 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="b04f-84e6-876d-56f4" name="High Elves" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="4453-f6e6-5308-490f" name="Enanos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="3888-466e-545b-739e" name="Isha’s Mercy" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b145-131c-a8cc-ff41" name="Odio Visceral" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="e146-1b60-5972-b47b" profileTypeId="2ebf-f44d-b096-fa7d" name="Isha’s Mercy" hidden="false">
+                <profile id="1004-6900-549e-4c35" profileTypeId="2ebf-f44d-b096-fa7d" name="Odio Visceral" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Disco Enano: Inflinje 1(DF) a cada disco trabado con este disco."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="a003-7acd-76f3-b159" name="Runa de la Partición" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="d6fa-c986-ce98-9ff1" profileTypeId="2ebf-f44d-b096-fa7d" name="Runa de la Partición" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="High Elf Caster: Remove all (Damage) and battle ability tokens from target ally within medium range."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Herrero Rúnico Enano: un disco objetivo Enano situado a corto alcance obtiene +2 Ataque y +2 Contraataque hasta find turno."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="9170-74be-a967-9177" name="Muro de Escudos" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="0df1-6be4-6046-bb07" profileTypeId="2ebf-f44d-b096-fa7d" name="Muro de Escudos" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Los discos Enanos obtiene Guardia 1."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="f121-54f3-0e12-4597" name="Runa Comehechizos" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="dad9-b5c7-3bc0-0857" profileTypeId="2ebf-f44d-b096-fa7d" name="Runa Comehechizos" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Herrero Rúnico Enano: Un disco Enano objetivo situado a corto alcance gana Resistente a (DM) y no puede ser designado como objetivo por las abilidades de batalla de los oponentes hasta el final de la ronda."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="5ad3-b875-3c79-3f00" name="Mantenerse Firme" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="d160-115b-9d95-83ba" profileTypeId="2ebf-f44d-b096-fa7d" name="Mantenerse Firme" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Los discos Enanos aliados ganan Firmeza."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+        <entryGroup id="c424-aa44-f667-a1aa" name="Hombres Lagartos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="4327-f7a1-4c75-4665" name="Golpe en Salto" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="f100-c156-d9f8-931e" profileTypeId="2ebf-f44d-b096-fa7d" name="Golpe en Salto" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Los dicos de Hombres Lagartos activados con esta carta ganan Acometida 1."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+        <entryGroup id="7724-02aa-9f0b-4c19" name="Elfos Silvanos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="641f-a930-17c4-8f8a" name="Piel de Corteza" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="1fbf-7e11-3bb1-a1b6" profileTypeId="2ebf-f44d-b096-fa7d" name="Piel de Corteza" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Elfo Silvano: un disco Elfo Silvano objetivo situado a alcance largo o infeior obtiene +2 a la Resistencia y  Lento al Ataque hasta fin de turno."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+        <entryGroup id="e9c1-9187-b53d-dd30" name="Altos Elfos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="1e73-f873-690b-e63b" name="Caridad de Isha" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="ff42-e81e-ee2c-0e10" profileTypeId="2ebf-f44d-b096-fa7d" name="Caridad de Isha" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Alto Elfo: Elimina todas las fichas de daño y de abildades de batalla de un objetivo situado a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -791,17 +938,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="b9b7-4a21-0253-471a" name="Shield of Saphery" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a290-e495-c454-4a31" name="Escudoo de Saphery" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="39cb-50a0-9642-8615" profileTypeId="2ebf-f44d-b096-fa7d" name="Shield of Saphery" hidden="false">
+                <profile id="22e2-5156-4734-28fe" profileTypeId="2ebf-f44d-b096-fa7d" name="Escudoo de Saphery" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="High Elf Caster: Until the end of the round, each time target disk within medium range would be dealt damage, reduce that damage by d6-1."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Alto Elfo:Hasta el final de la ronda , cada vez que un disco objetivo situado a alcance medio o inferior vaya a recibir daños, el daño recibido se reduce en d6-1"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -809,17 +956,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="99ae-42b2-1ee2-3eb5" name="Speed of Asuryan" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="9894-382f-affd-bc6c" name="Rapidez de Asuryan" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="1a84-350d-973e-adc0" profileTypeId="2ebf-f44d-b096-fa7d" name="Speed of Asuryan" hidden="false">
+                <profile id="25bf-e1d8-9b59-f1a6" profileTypeId="2ebf-f44d-b096-fa7d" name="Rapidez de Asuryan" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="One 1 High Elf disk activated with this command gains mobile."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Un disco Alto Elfo activado con esta carta gana Movilidad."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -827,17 +974,17 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="e77c-daf4-6f6a-fb46" name="Winds of Morai-Heg" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="e25f-56f2-81ed-e94d" name="Vientos de Morai-Heg" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="67aa-b70c-017b-fccb" profileTypeId="2ebf-f44d-b096-fa7d" name="Winds of Morai-Heg" hidden="false">
+                <profile id="0627-98fb-75bd-99af" profileTypeId="2ebf-f44d-b096-fa7d" name="Vientos de Morai-Heg" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="The maximum range of ranged attacks made by High Elves disks activated with this command is increased by 1."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Aumentaen 1 el alcance máximo de los ataques a distancia efectados por los discos Altos Elfos activados por esta carta."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -850,92 +997,386 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="4453-f6e6-5308-490f" name="Dwarfs" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      </entryGroups>
+      <modifiers/>
+      <links/>
+    </entryGroup>
+    <entryGroup id="eeda-6f47-ee9c-00bf" name="Altos Elfos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups>
+        <entryGroup id="2334-f989-3ca0-e1e8" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="b145-131c-a8cc-ff41" name="Grudge-Born Fury " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="be2b-7e81-2cd1-4629" name="Lanzavirotes" points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
-              <modifiers/>
-              <rules/>
+              <modifiers>
+                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                  <conditions/>
+                  <conditionGroups>
+                    <conditionGroup type="or">
+                      <conditions>
+                        <condition parentId="eeda-6f47-ee9c-00bf" childId="b358-e4e5-045b-12fe" field="selections" type="equal to" value="1.0"/>
+                        <condition parentId="eeda-6f47-ee9c-00bf" childId="355c-ad4b-2646-799b" field="selections" type="equal to" value="1.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </conditionGroup>
+                  </conditionGroups>
+                </modifier>
+              </modifiers>
+              <rules>
+                <rule id="23bb-e592-804b-02d5" name="Lanzavirotes" hidden="false">
+                  <description>Élite. Màquina de Guerra.
+D: Asedio, 3D, 3(DF)
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
               <profiles>
-                <profile id="1004-6900-549e-4c35" profileTypeId="2ebf-f44d-b096-fa7d" name="Grudge-Born Fury " hidden="false">
+                <profile id="bb5f-5272-5d30-0717" profileTypeId="7628-fefb-3693-417e" name="Lanzavirotes" hidden="false">
                   <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Dwarf Disk: deal 1(PD) to each disk engaged with this disk."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="0"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="0"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="10"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
               </profiles>
               <links/>
             </entry>
-            <entry id="a003-7acd-76f3-b159" name="Rune of Cleaving" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="355c-ad4b-2646-799b" name="Dragon Solar" points="15.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
-              <modifiers/>
-              <rules/>
+              <modifiers>
+                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                  <conditions/>
+                  <conditionGroups>
+                    <conditionGroup type="or">
+                      <conditions>
+                        <condition parentId="eeda-6f47-ee9c-00bf" childId="b358-e4e5-045b-12fe" field="selections" type="equal to" value="1.0"/>
+                        <condition parentId="eeda-6f47-ee9c-00bf" childId="be2b-7e81-2cd1-4629" field="selections" type="equal to" value="1.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </conditionGroup>
+                  </conditionGroups>
+                </modifier>
+              </modifiers>
+              <rules>
+                <rule id="7dd6-2d29-ba5d-782a" name="Dragon Solar" hidden="false">
+                  <description>Élite. Monstuo. Volador. Movilidad.
+A: Inflinje d6(DF) a un disco objetivo situado a alcance medio o inferior, y también a todos los discos que estén enfrentados con el objetivo.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
               <profiles>
-                <profile id="d6fa-c986-ce98-9ff1" profileTypeId="2ebf-f44d-b096-fa7d" name="Rune of Cleaving" hidden="false">
+                <profile id="ab0d-e600-6d7b-199a" profileTypeId="7628-fefb-3693-417e" name="Dragon Solar" hidden="false">
                   <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Dwarf Runesmith: target Dwarf disk within short range gains +2 Attack Strength and +2 Counter Strength until the end of the round."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="5"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="15"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
               </profiles>
               <links/>
             </entry>
-            <entry id="9170-74be-a967-9177" name="Shield Wall" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b358-e4e5-045b-12fe" name="Escolta Celestial" points="11.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
-              <modifiers/>
-              <rules/>
+              <modifiers>
+                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                  <conditions/>
+                  <conditionGroups>
+                    <conditionGroup type="or">
+                      <conditions>
+                        <condition parentId="eeda-6f47-ee9c-00bf" childId="355c-ad4b-2646-799b" field="selections" type="equal to" value="1.0"/>
+                        <condition parentId="eeda-6f47-ee9c-00bf" childId="be2b-7e81-2cd1-4629" field="selections" type="equal to" value="1.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </conditionGroup>
+                  </conditionGroups>
+                </modifier>
+              </modifiers>
+              <rules>
+                <rule id="b297-961e-9f63-4372" name="Escolta Celestial" hidden="false">
+                  <description>Élite. Caballería. Disparo. Movilidad. Volador.
+D: Medio, 1D, 3(Daño auténtico)
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
               <profiles>
-                <profile id="0df1-6be4-6046-bb07" profileTypeId="2ebf-f44d-b096-fa7d" name="Shield Wall" hidden="false">
+                <profile id="6e55-bdc9-8c1f-df2f" profileTypeId="7628-fefb-3693-417e" name="Escolta Celestial" hidden="false">
                   <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Dwarf disks gain guard 1. "/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="11"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
               </profiles>
               <links/>
             </entry>
-            <entry id="f121-54f3-0e12-4597" name="Spelleater Rune" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="5b96-eadc-dbc0-a0cc" name="Guardianes de Ellyrion" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
-              <rules/>
+              <rules>
+                <rule id="4f5c-207a-5d38-c3b1" name="Guardianes de Ellyrion" hidden="false">
+                  <description>Caballería. Flanqueo. Acometida 2. Batida.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
               <profiles>
-                <profile id="dad9-b5c7-3bc0-0857" profileTypeId="2ebf-f44d-b096-fa7d" name="Spelleater Rune" hidden="false">
+                <profile id="af24-44c6-17d7-ba72" profileTypeId="7628-fefb-3693-417e" name="Guardianes de Ellyrion" hidden="false">
                   <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Dwarf Runesmith: target Dwarf disk within short range gains Resistant (MD) and cannot be targeted by opponents’ battle abilities until the end of the round."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="9"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="0"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
               </profiles>
               <links/>
             </entry>
-            <entry id="5ad3-b875-3c79-3f00" name="Stand Firm" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="9614-00c7-6803-9626" name="Yelmos Plateados" points="12.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
-              <rules/>
+              <rules>
+                <rule id="25fc-bbdd-28b2-9dfc" name="Yelmos Plateados" hidden="false">
+                  <description>Caballería. Acometida 3. Veloz (Ataque).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
               <profiles>
-                <profile id="d160-115b-9d95-83ba" profileTypeId="2ebf-f44d-b096-fa7d" name="Stand Firm" hidden="false">
+                <profile id="f1e0-ffbd-86b4-a0f4" profileTypeId="7628-fefb-3693-417e" name="Yelmos Plateados" hidden="false">
                   <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Ally Dwarfs disks gain stalwart. "/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="6"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="0"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="12"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers>
+            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="eeda-6f47-ee9c-00bf" incrementChildId="beb3-1350-db0f-f19f" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+          </modifiers>
+          <links/>
+        </entryGroup>
+        <entryGroup id="beb3-1350-db0f-f19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="02d2-9488-8adf-06fb" name="Gran Mago" points="7.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="c883-bb9a-abfb-def4" name="Gran Mago" hidden="false">
+                  <description>Hechicero. Magia 2. Resistente a (DM).
+Todo aliado situado a corto alcance gana Resistente a (DM).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="a468-83bb-ce46-7bf7" profileTypeId="7628-fefb-3693-417e" name="Gran Mago" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="4f42-b9d5-b294-50ea" name="Guardia del Mar de Lothern" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="c412-a34c-36e9-cd42" name="Guardia del Mar de Lothern" hidden="false">
+                  <description>Infantería. Disparo. Movilidad.
+D: Medio, 1D, 2(DF).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="93fa-2329-6e12-dcb4" profileTypeId="7628-fefb-3693-417e" name="Guardia del Mar de Lothern" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="5"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="542f-8a90-57ff-f83f" name="Guardia de Doncellas" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="6425-2eb4-c9cd-2927" name="Guardia de Doncellas" hidden="false">
+                  <description>Disparo.
+D: Largo, 2D 3(DM), se tratab (Caos) como (Impacto)
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="fc02-9026-3a8e-acb5" profileTypeId="7628-fefb-3693-417e" name="Guardia de Doncellas" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="c271-86f7-039e-259a" name="Arqueros de la Milicia" points="6.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="a656-0f75-fbfb-6be7" name="Arqueros de la Milicia" hidden="false">
+                  <description>Disparo.
+D: Largo, 3D, 2(DF).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="b5eb-a9f0-ef4d-f73c" profileTypeId="7628-fefb-3693-417e" name="Arqueros de la Milicia" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="2"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="14ef-0d4e-5653-5a42" name="Maestros de la Espada de Hoeth" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="a18b-77a0-306c-a1c6" name="Maestros de la Espada de Hoeth" hidden="false">
+                  <description>Infantería. Veloz (Ataque).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="7eab-2862-b0db-201b" profileTypeId="7628-fefb-3693-417e" name="Maestros de la Espada de Hoeth" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="5073-cab2-281a-60b0" name="Lanceros de la Milicia" points="6.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="35c7-c2a2-8edb-e20f" name="Lanceros de la Milicia" hidden="false">
+                  <description>Infantería. Veloz (Contraataque).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="f67b-3d91-828c-a468" profileTypeId="7628-fefb-3693-417e" name="Lanceros de la Milicia" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
@@ -947,20 +1388,80 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="c424-aa44-f667-a1aa" name="Lizardmen" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      </entryGroups>
+      <modifiers/>
+      <links/>
+    </entryGroup>
+    <entryGroup id="d360-2082-80bb-d6d6" name="Elfos Silvanos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups>
+        <entryGroup id="23bb-dc28-b452-285c" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers>
+            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="d360-2082-80bb-d6d6" incrementChildId="ecf1-dc22-40c7-dfba" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+          </modifiers>
+          <links/>
+        </entryGroup>
+        <entryGroup id="ecf1-dc22-40c7-dfba" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="4327-f7a1-4c75-4665" name="Leaping Strike" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="6bce-7979-f480-0bfd" name="Dríades de Athel Loren" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
-              <rules/>
+              <rules>
+                <rule id="5a82-01a9-f04d-82c1" name="Dríades de Athel Loren" hidden="false">
+                  <description>Forestal.  Zancada.
+Cuando este disco pise un terreno escabroso despues de un volteo, potencia este disco.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
               <profiles>
-                <profile id="f100-c156-d9f8-931e" profileTypeId="2ebf-f44d-b096-fa7d" name="Leaping Strike" hidden="false">
+                <profile id="cd7b-9edd-9ba5-cc2d" profileTypeId="7628-fefb-3693-417e" name="Dríades de Athel Loren" hidden="false">
                   <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Lizardmen disks activated with this command gain impact 1."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="3f45-1eaa-b317-45a7" name="Bailarines Guerreros" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="5c5f-3558-4673-dee5" name="Bailarines Guerreros" hidden="false">
+                  <description>Infantería. Veloz (Ataque, Contraataque).
+Mientras no esté trabado, este disco gana 2(Ataque) y 2 (Contraataque).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="e93e-9d75-b9fc-93b4" profileTypeId="7628-fefb-3693-417e" name="Bailarines Guerreros" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="6"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
@@ -972,20 +1473,419 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="7724-02aa-9f0b-4c19" name="Wood Elves" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      </entryGroups>
+      <modifiers/>
+      <links/>
+    </entryGroup>
+    <entryGroup id="a00b-5115-7d53-eb6c" name="Enanos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups>
+        <entryGroup id="adf6-5923-a497-6fc4" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="641f-a930-17c4-8f8a" name="Skin to Bark" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="7432-f383-8a50-66db" name="Cañón Lanzallamas" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
-              <rules/>
+              <rules>
+                <rule id="29c4-7123-80ee-5d93" name="Cañón Lanzallamas" hidden="false">
+                  <description>Maquina de Guerra. Firmeza.
+D: Medio, 1D, 6(DF). Si durante un ataque a distancia este disco obtiene (Impacto) o (Impacto crítico), inflinje 2 (DF) a cada disco sitauado a corto alcance del objetivo.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
               <profiles>
-                <profile id="1fbf-7e11-3bb1-a1b6" profileTypeId="2ebf-f44d-b096-fa7d" name="Skin to Bark" hidden="false">
+                <profile id="5ca0-4897-24ab-9dd6" profileTypeId="7628-fefb-3693-417e" name="Cañón Lanzallamas" hidden="false">
                   <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Wood Elf Caster: target Wood Elves disk within long range gains 2 Toughtness and slow (Attack) until the end of the round."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="HaH"/>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="2"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="0"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="2ffa-748f-2adc-a5d2" name="Cañón Rúnico" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers>
+                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                  <conditions>
+                    <condition parentId="a00b-5115-7d53-eb6c" childId="0f4e-c454-f01e-fb67" field="selections" type="equal to" value="1.0"/>
+                  </conditions>
+                  <conditionGroups/>
+                </modifier>
+              </modifiers>
+              <rules>
+                <rule id="5af0-33cb-7321-a7b1" name="Cañón Rúnico" hidden="false">
+                  <description>Élite. Máquina de Guerra.
+D: Asedio, 2D, 4(DF). Cada (Impacto) o (Impacto Crítico) tambien cuenta como (Desvio).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="4cca-ea9e-e07c-4098" profileTypeId="7628-fefb-3693-417e" name="Cañón Rúnico" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="0"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="0"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="12"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="0f4e-c454-f01e-fb67" name="Girocóptero" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers>
+                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                  <conditions>
+                    <condition parentId="a00b-5115-7d53-eb6c" childId="2ffa-748f-2adc-a5d2" field="selections" type="equal to" value="1.0"/>
+                  </conditions>
+                  <conditionGroups/>
+                </modifier>
+              </modifiers>
+              <rules>
+                <rule id="f74f-cf3f-674d-d02a" name="Girocóptero" hidden="false">
+                  <description>Élite. Maquina de Guerra. Volador. Movilidad. Firmeza.
+D: Medio, 1D, 4(DF).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="2df8-7852-ce57-9c6c" profileTypeId="7628-fefb-3693-417e" name="Girocóptero" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="12"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="cf20-9d2a-e458-aeb7" name="Estatua Ancestral" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="2aca-4796-dd8b-3911" name="Estatua Ancestral" hidden="false">
+                  <description>Monumento.  Emplazamiento.
+A: Potencia dos discos (Enanos) objetivos situados a alcance medio o inferior.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="6d22-2ea0-0712-cc04" profileTypeId="7628-fefb-3693-417e" name="Estatua Ancestral" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="-"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="-"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="-"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers>
+            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="a00b-5115-7d53-eb6c" incrementChildId="11dc-a980-b774-d19f" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+          </modifiers>
+          <links/>
+        </entryGroup>
+        <entryGroup id="11dc-a980-b774-d19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="8392-ef44-4757-9ef6" name="Guerreros de Karak Azul " points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="5514-f31e-9f50-2cf9" name="Guerreros de Karak Azul " hidden="false">
+                  <description>Infantería.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="2faf-d76f-9d03-c0cc" profileTypeId="7628-fefb-3693-417e" name="Guerreros de Karak Azul " hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="d7b3-1c28-e67f-4698" name="Mineros de Karak Hirn" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="09cc-9b05-995e-ac89" name="Mineros de Karak Hirn" hidden="false">
+                  <description>Infantería.
+Este disco puede entrar como refuerzo solapando cualquier terreno que no esté pisando un enemigo.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="91eb-8e8c-6258-b161" profileTypeId="7628-fefb-3693-417e" name="Mineros de Karak Hirn" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="17cd-638f-542c-3b12" name="Martilladores de Karaz-a-Karak" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="d0b4-f7a7-102f-2d33" name="Martilladores de Karaz-a-Karak" hidden="false">
+                  <description>Infantería. Guardia 1.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="e6ce-9708-40fc-9a9d" profileTypeId="7628-fefb-3693-417e" name="Martilladores de Karaz-a-Karak" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="4016-3f48-1b13-06ca" name="Atronadores de Karaz-a-Karak" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="a9bf-0cb7-4e37-05d1" name="Atronadores de Karaz-a-Karak" hidden="false">
+                  <description>Disparo.
+D: Medio, 2D, 4(DF).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="aef3-74f7-954f-65d5" profileTypeId="7628-fefb-3693-417e" name="Atronadores de Karaz-a-Karak" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="2"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="16b5-c5a3-0dad-1d86" name="Maestro Ingeniero" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="158d-8716-7533-b4be" name="Maestro Ingeniero" hidden="false">
+                  <description>Personaje.
+A: Quita una Ficha de Activación de una máquina de guerra Enana objetivo situada a alcance corto.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="dff5-7f6b-fed3-06b1" profileTypeId="7628-fefb-3693-417e" name="Maestro Ingeniero" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="2"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="0f92-c025-ae5d-d9b1" name="Señor de las Runas" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="bd4c-0350-b122-97dc" name="Señor de las Runas" hidden="false">
+                  <description>Herrero Rúnico. Movilidad.
+A: Potencia el disco Enano objetivo a corto alcance.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="9f82-cef5-3fd6-4256" profileTypeId="7628-fefb-3693-417e" name="Señor de las Runas" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+      </entryGroups>
+      <modifiers/>
+      <links/>
+    </entryGroup>
+    <entryGroup id="8dae-544c-93da-b9af" name="Hombres Lagartos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups>
+        <entryGroup id="5e7c-0a39-a203-6d1b" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="77c9-a825-e4ee-91e1" name="Salamandra" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="89c4-131d-33d7-fcfb" name="Salamandra" hidden="false">
+                  <description>Monstruo. Movilidad.
+A: Inflinje d6-1(DF) a un disco objetivo situado a corto alcance.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="6a51-4ca0-3b14-b968" profileTypeId="7628-fefb-3693-417e" name="Salamandra" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers>
+            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="8dae-544c-93da-b9af" incrementChildId="4f5d-ddcb-edd6-74cf" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+          </modifiers>
+          <links/>
+        </entryGroup>
+        <entryGroup id="4f5d-ddcb-edd6-74cf" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="a912-7f4a-e3cb-08d2" name="Eslizones Camaleones" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="e222-cd06-055a-affa" name="Eslizones Camaleones" hidden="false">
+                  <description>Disparo. Movilidad. Veneno.
+D: Medio, 2D, 2(DF).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="7198-e3eb-569d-cd18" profileTypeId="7628-fefb-3693-417e" name="Eslizones Camaleones" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="2"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
@@ -1365,906 +2265,6 @@ Si este disco saca 2 o más Fallos al efectuar un ataque a distáncia, sufre una
               <conditionGroups/>
             </modifier>
           </modifiers>
-          <links/>
-        </entryGroup>
-      </entryGroups>
-      <modifiers/>
-      <links/>
-    </entryGroup>
-    <entryGroup id="a00b-5115-7d53-eb6c" name="Enanos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
-      <entryGroups>
-        <entryGroup id="adf6-5923-a497-6fc4" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="7432-f383-8a50-66db" name="Cañón Lanzallamas" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="29c4-7123-80ee-5d93" name="Cañón Lanzallamas" hidden="false">
-                  <description>Maquina de Guerra. Firmeza.
-D: Medio, 1D, 6(DF). Si durante un ataque a distancia este disco obtiene (Impacto) o (Impacto crítico), inflinje 2 (DF) a cada disco sitauado a corto alcance del objetivo.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="5ca0-4897-24ab-9dd6" profileTypeId="7628-fefb-3693-417e" name="Cañón Lanzallamas" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="2"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="0"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="2ffa-748f-2adc-a5d2" name="Cañón Rúnico" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers>
-                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="a00b-5115-7d53-eb6c" childId="0f4e-c454-f01e-fb67" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-              <rules>
-                <rule id="5af0-33cb-7321-a7b1" name="Cañón Rúnico" hidden="false">
-                  <description>Élite. Máquina de Guerra.
-D: Asedio, 2D, 4(DF). Cada (Impacto) o (Impacto Crítico) tambien cuenta como (Desvio).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="4cca-ea9e-e07c-4098" profileTypeId="7628-fefb-3693-417e" name="Cañón Rúnico" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="0"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="0"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="12"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="0f4e-c454-f01e-fb67" name="Girocóptero" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers>
-                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="a00b-5115-7d53-eb6c" childId="2ffa-748f-2adc-a5d2" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-              <rules>
-                <rule id="f74f-cf3f-674d-d02a" name="Girocóptero" hidden="false">
-                  <description>Élite. Maquina de Guerra. Volador. Movilidad. Firmeza.
-D: Medio, 1D, 4(DF).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="2df8-7852-ce57-9c6c" profileTypeId="7628-fefb-3693-417e" name="Girocóptero" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="12"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="cf20-9d2a-e458-aeb7" name="Estatua Ancestral" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="2aca-4796-dd8b-3911" name="Estatua Ancestral" hidden="false">
-                  <description>Monumento.  Emplazamiento.
-A: Potencia dos discos (Enanos) objetivos situados a alcance medio o inferior.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="6d22-2ea0-0712-cc04" profileTypeId="7628-fefb-3693-417e" name="Estatua Ancestral" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="-"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="-"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="-"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers>
-            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="a00b-5115-7d53-eb6c" incrementChildId="11dc-a980-b774-d19f" incrementField="selections" incrementValue="1.0">
-              <conditions/>
-              <conditionGroups/>
-            </modifier>
-          </modifiers>
-          <links/>
-        </entryGroup>
-        <entryGroup id="11dc-a980-b774-d19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="8392-ef44-4757-9ef6" name="Guerreros de Karak Azul " points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="5514-f31e-9f50-2cf9" name="Guerreros de Karak Azul " hidden="false">
-                  <description>Infantería.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="2faf-d76f-9d03-c0cc" profileTypeId="7628-fefb-3693-417e" name="Guerreros de Karak Azul " hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="d7b3-1c28-e67f-4698" name="Mineros de Karak Hirn" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="09cc-9b05-995e-ac89" name="Mineros de Karak Hirn" hidden="false">
-                  <description>Infantería.
-Este disco puede entrar como refuerzo solapando cualquier terreno que no esté pisando un enemigo.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="91eb-8e8c-6258-b161" profileTypeId="7628-fefb-3693-417e" name="Mineros de Karak Hirn" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="17cd-638f-542c-3b12" name="Martilladores de Karaz-a-Karak" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="d0b4-f7a7-102f-2d33" name="Martilladores de Karaz-a-Karak" hidden="false">
-                  <description>Infantería. Guardia 1.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="e6ce-9708-40fc-9a9d" profileTypeId="7628-fefb-3693-417e" name="Martilladores de Karaz-a-Karak" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="4016-3f48-1b13-06ca" name="Atronadores de Karaz-a-Karak" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="a9bf-0cb7-4e37-05d1" name="Atronadores de Karaz-a-Karak" hidden="false">
-                  <description>Disparo.
-D: Medio, 2D, 4(DF).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="aef3-74f7-954f-65d5" profileTypeId="7628-fefb-3693-417e" name="Atronadores de Karaz-a-Karak" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="2"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="16b5-c5a3-0dad-1d86" name="Maestro Ingeniero" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="158d-8716-7533-b4be" name="Maestro Ingeniero" hidden="false">
-                  <description>Personaje.
-A: Quita una Ficha de Activación de una máquina de guerra Enana objetivo situada a alcance corto.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="dff5-7f6b-fed3-06b1" profileTypeId="7628-fefb-3693-417e" name="Maestro Ingeniero" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="2"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="0f92-c025-ae5d-d9b1" name="Señor de las Runas" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="bd4c-0350-b122-97dc" name="Señor de las Runas" hidden="false">
-                  <description>Herrero Rúnico. Movilidad.
-A: Potencia el disco Enano objetivo a corto alcance.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="9f82-cef5-3fd6-4256" profileTypeId="7628-fefb-3693-417e" name="Señor de las Runas" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
-          <links/>
-        </entryGroup>
-      </entryGroups>
-      <modifiers/>
-      <links/>
-    </entryGroup>
-    <entryGroup id="eeda-6f47-ee9c-00bf" name="High Elves Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
-      <entryGroups>
-        <entryGroup id="2334-f989-3ca0-e1e8" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="be2b-7e81-2cd1-4629" name="Bolt Thrower " points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers>
-                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups>
-                    <conditionGroup type="or">
-                      <conditions>
-                        <condition parentId="eeda-6f47-ee9c-00bf" childId="b358-e4e5-045b-12fe" field="selections" type="equal to" value="1.0"/>
-                        <condition parentId="eeda-6f47-ee9c-00bf" childId="355c-ad4b-2646-799b" field="selections" type="equal to" value="1.0"/>
-                      </conditions>
-                      <conditionGroups/>
-                    </conditionGroup>
-                  </conditionGroups>
-                </modifier>
-              </modifiers>
-              <rules>
-                <rule id="23bb-e592-804b-02d5" name="Bolt Thrower " hidden="false">
-                  <description>Elite. War Machine.
-S: Siege. 3D 3(PD)
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="bb5f-5272-5d30-0717" profileTypeId="7628-fefb-3693-417e" name="Bolt Thrower " hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="0"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="0"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="10"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="355c-ad4b-2646-799b" name="Sun Dragon" points="15.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers>
-                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups>
-                    <conditionGroup type="or">
-                      <conditions>
-                        <condition parentId="eeda-6f47-ee9c-00bf" childId="b358-e4e5-045b-12fe" field="selections" type="equal to" value="1.0"/>
-                        <condition parentId="eeda-6f47-ee9c-00bf" childId="be2b-7e81-2cd1-4629" field="selections" type="equal to" value="1.0"/>
-                      </conditions>
-                      <conditionGroups/>
-                    </conditionGroup>
-                  </conditionGroups>
-                </modifier>
-              </modifiers>
-              <rules>
-                <rule id="7dd6-2d29-ba5d-782a" name="Sun Dragon" hidden="false">
-                  <description>Elite. Monster. Flying. Mobile.
-A: Deal d6(PD) to target disk within medium range, and all disks that are engaged with the target.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="ab0d-e600-6d7b-199a" profileTypeId="7628-fefb-3693-417e" name="Sun Dragon" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="5"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="15"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="b358-e4e5-045b-12fe" name="Sky Cutter" points="11.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers>
-                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions/>
-                  <conditionGroups>
-                    <conditionGroup type="or">
-                      <conditions>
-                        <condition parentId="eeda-6f47-ee9c-00bf" childId="355c-ad4b-2646-799b" field="selections" type="equal to" value="1.0"/>
-                        <condition parentId="eeda-6f47-ee9c-00bf" childId="be2b-7e81-2cd1-4629" field="selections" type="equal to" value="1.0"/>
-                      </conditions>
-                      <conditionGroups/>
-                    </conditionGroup>
-                  </conditionGroups>
-                </modifier>
-              </modifiers>
-              <rules>
-                <rule id="b297-961e-9f63-4372" name="Sky Cutter" hidden="false">
-                  <description>Elite. Cavalry. Missile. Mobile. Flying.
-S: Medium. 1D 3(True Damange)
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="6e55-bdc9-8c1f-df2f" profileTypeId="7628-fefb-3693-417e" name="Sky Cutter" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="11"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="5b96-eadc-dbc0-a0cc" name="Ellyrian Reavers" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="4f5c-207a-5d38-c3b1" name="Ellyrian Reavers" hidden="false">
-                  <description>Cavalry. Flank. Impact 2. Scout.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="af24-44c6-17d7-ba72" profileTypeId="7628-fefb-3693-417e" name="Ellyrian Reavers" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="9"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="0"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="9614-00c7-6803-9626" name="Silver Helms" points="12.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="25fc-bbdd-28b2-9dfc" name="Silver Helms" hidden="false">
-                  <description>Cavalry. Impact 3. Swift (Attack).
- </description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="f1e0-ffbd-86b4-a0f4" profileTypeId="7628-fefb-3693-417e" name="Silver Helms" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="6"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="0"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="12"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers>
-            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="eeda-6f47-ee9c-00bf" incrementChildId="beb3-1350-db0f-f19f" incrementField="selections" incrementValue="1.0">
-              <conditions/>
-              <conditionGroups/>
-            </modifier>
-          </modifiers>
-          <links/>
-        </entryGroup>
-        <entryGroup id="beb3-1350-db0f-f19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="02d2-9488-8adf-06fb" name="High Mage" points="7.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="c883-bb9a-abfb-def4" name="High Mage" hidden="false">
-                  <description>Caster. Magic 2. Resistant (MD).
-Each ally disk within short range gains  resistant (MD).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="a468-83bb-ce46-7bf7" profileTypeId="7628-fefb-3693-417e" name="High Mage" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="4f42-b9d5-b294-50ea" name="Lothern Sea Guard  " points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="c412-a34c-36e9-cd42" name="Lothern Sea Guard  " hidden="false">
-                  <description>Infantry. Missile. Mobile.
-S: Medium. 1D 2(PD)
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="93fa-2329-6e12-dcb4" profileTypeId="7628-fefb-3693-417e" name="Lothern Sea Guard  " hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="5"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="542f-8a90-57ff-f83f" name="Maiden Guard" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="6425-2eb4-c9cd-2927" name="Maiden Guard" hidden="false">
-                  <description>Missile.
-S: Long. 2D 3(MD), treat (Caos) as (Success)
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="fc02-9026-3a8e-acb5" profileTypeId="7628-fefb-3693-417e" name="Maiden Guard" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="c271-86f7-039e-259a" name="Militia Archers" points="6.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="a656-0f75-fbfb-6be7" name="Militia Archers" hidden="false">
-                  <description>Missile.
-S: Long. 3D 2(PD).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="b5eb-a9f0-ef4d-f73c" profileTypeId="7628-fefb-3693-417e" name="Militia Archers" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="2"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="face-cfaa-1de9-b717" name="Militia Spearmen  " points="6.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="6f29-34e2-fd15-b48d" name="Militia Spearmen  " hidden="false">
-                  <description>Infantry. Swift (Counter).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="88b8-cbc2-30b9-9f34" profileTypeId="7628-fefb-3693-417e" name="Militia Spearmen  " hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="14ef-0d4e-5653-5a42" name="Swordmasters of Hoeth" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="a18b-77a0-306c-a1c6" name="Swordmasters of Hoeth" hidden="false">
-                  <description>Infantry. Swift (Attack).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="7eab-2862-b0db-201b" profileTypeId="7628-fefb-3693-417e" name="Swordmasters of Hoeth" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
-          <links/>
-        </entryGroup>
-      </entryGroups>
-      <modifiers/>
-      <links/>
-    </entryGroup>
-    <entryGroup id="8dae-544c-93da-b9af" name="Lizardmen Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
-      <entryGroups>
-        <entryGroup id="5e7c-0a39-a203-6d1b" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="77c9-a825-e4ee-91e1" name="Salamander" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="89c4-131d-33d7-fcfb" name="Salamander" hidden="false">
-                  <description>Monster.  Mobile.
-A: Deal d6-1(PD) to target disk within short range.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="6a51-4ca0-3b14-b968" profileTypeId="7628-fefb-3693-417e" name="Salamander" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers>
-            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="8dae-544c-93da-b9af" incrementChildId="4f5d-ddcb-edd6-74cf" incrementField="selections" incrementValue="1.0">
-              <conditions/>
-              <conditionGroups/>
-            </modifier>
-          </modifiers>
-          <links/>
-        </entryGroup>
-        <entryGroup id="4f5d-ddcb-edd6-74cf" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="a912-7f4a-e3cb-08d2" name="Skink Skirmishers" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="e222-cd06-055a-affa" name="Skink Skirmishers" hidden="false">
-                  <description>Missile . Mobile. Poison.
-S: Medium. 2D 2(PD).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="7198-e3eb-569d-cd18" profileTypeId="7628-fefb-3693-417e" name="Skink Skirmishers" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="2"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
-          <links/>
-        </entryGroup>
-      </entryGroups>
-      <modifiers/>
-      <links/>
-    </entryGroup>
-    <entryGroup id="d360-2082-80bb-d6d6" name="Wood Elves Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
-      <entryGroups>
-        <entryGroup id="23bb-dc28-b452-285c" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers>
-            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="d360-2082-80bb-d6d6" incrementChildId="ecf1-dc22-40c7-dfba" incrementField="selections" incrementValue="1.0">
-              <conditions/>
-              <conditionGroups/>
-            </modifier>
-          </modifiers>
-          <links/>
-        </entryGroup>
-        <entryGroup id="ecf1-dc22-40c7-dfba" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="6bce-7979-f480-0bfd" name="Athel Loren Dryads" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="5a82-01a9-f04d-82c1" name="Athel Loren Dryads" hidden="false">
-                  <description>Forest.  Strider.
-When this disk overlaps a rough terrain after a flip, empower this disk.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="cd7b-9edd-9ba5-cc2d" profileTypeId="7628-fefb-3693-417e" name="Athel Loren Dryads" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="3f45-1eaa-b317-45a7" name="Wardancers" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="5c5f-3558-4673-dee5" name="Wardancers" hidden="false">
-                  <description>Infantry . Swift (Attack, Counter).
-While not embattled, this disk gains 2 (Attack Strength) and 2 (Counter Strength).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="e93e-9d75-b9fc-93b4" profileTypeId="7628-fefb-3693-417e" name="Wardancers" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="6"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="HaH"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="9"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
           <links/>
         </entryGroup>
       </entryGroups>

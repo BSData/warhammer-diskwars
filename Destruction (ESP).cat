@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="2085-64da-8674-6dda" revision="3" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Destrucción (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8539-b2af-71d4-ecb2" revision="4" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Destrucción ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="2cdc-6500-39fe-3fef" name=" Cartas de Mando de Destrucción" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -804,17 +804,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
       <entryGroups>
         <entryGroup id="b0cd-d1a5-a22a-cbbf" name="Caos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="188d-82bf-6373-881b" name="Storm of Chaos" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="188d-82bf-6373-881b" name="Tormenta del Caos" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="32f7-9829-8867-a131" profileTypeId="2ebf-f44d-b096-fa7d" name="Storm of Chaos" hidden="false">
+                <profile id="32f7-9829-8867-a131" profileTypeId="2ebf-f44d-b096-fa7d" name="Tormenta del Caos" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Empower each Caos disk activated with this command."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Potencia todos los discos (Caos) que se activen con esta carta."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -822,17 +822,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="93c7-59db-8d81-1e9c" name="Nurgle’s Rot" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="93c7-59db-8d81-1e9c" name="Podredumbre de Nurgle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="303d-b3fd-2af8-6e8a" profileTypeId="2ebf-f44d-b096-fa7d" name="Nurgle’s Rot" hidden="false">
+                <profile id="303d-b3fd-2af8-6e8a" profileTypeId="2ebf-f44d-b096-fa7d" name="Podredumbre de Nurgle" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Daemonic: Target disk within short range loses 2 Toughness (to a minimum of 1) until the end of the round."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Demoníaco: Un disco objetivo situado a corto alcance pierde -2 Resistencia (hasta un mínmo de 1) hasta el final de la ronda."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -840,17 +840,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="a366-ecc1-ce65-1abf" name="Blood For the Blood God" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a366-ecc1-ce65-1abf" name="Sangre para el Dios de la Sangre" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="5b20-b59e-a518-a9dd" profileTypeId="2ebf-f44d-b096-fa7d" name="Blood For the Blood God" hidden="false">
+                <profile id="5b20-b59e-a518-a9dd" profileTypeId="2ebf-f44d-b096-fa7d" name="Sangre para el Dios de la Sangre" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Caos Disk: Resolve one engagement that this disk is participating in."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Disco Caos: Resuelve un enfrentamiento en el que esté participando este disco."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -858,17 +858,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="3cf4-354f-df48-f27a" name="Acquiescence" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3cf4-354f-df48-f27a" name="Aquiesencia" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="185f-497f-9c64-6cf0" profileTypeId="2ebf-f44d-b096-fa7d" name="Acquiescence" hidden="false">
+                <profile id="185f-497f-9c64-6cf0" profileTypeId="2ebf-f44d-b096-fa7d" name="Aquiesencia" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Caos Caster: Treat target disk within medium range as having a blank text box until the end of the round. "/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero del Caos: Considera el disco objetivo situado a alcance medio como si tuviera la caja de texto en blanco hasta el final de la ronda."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -881,7 +881,7 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="0f1a-b53e-a638-170f" name="Orc" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="0f1a-b53e-a638-170f" name="Orcos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
             <entry id="df19-9553-200f-e691" name="Waaagh!" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
@@ -892,8 +892,8 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
                 <profile id="d7ba-19e9-abdf-3269" profileTypeId="2ebf-f44d-b096-fa7d" name="Waaagh!" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Each Orc disk activated with this command gains relentless."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Todos los discos Orcos activados con esta carta ganan Implacable."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -901,17 +901,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="2492-a518-e955-fb18" name="Strength of Gork " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="2492-a518-e955-fb18" name="Fuerza de Gorko" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="4e86-313d-8c5b-00b0" profileTypeId="2ebf-f44d-b096-fa7d" name="Strength of Gork " hidden="false">
+                <profile id="4e86-313d-8c5b-00b0" profileTypeId="2ebf-f44d-b096-fa7d" name="Fuerza de Gorko" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Orc Disk: This disk gains 2(Attack) and 1(Counter) until the end of the round."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Disco Orco: Este disco gana 2(Ataque) y 1(Contraataque) hasta el final de la ronda."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -919,35 +919,35 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="4507-32e4-b901-4276" name="Fists of Mork" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4507-32e4-b901-4276" name="Puños de Morko" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="7084-b390-3ebf-d333" profileTypeId="2ebf-f44d-b096-fa7d" name="Fists of Mork" hidden="false">
+                <profile id="7084-b390-3ebf-d333" profileTypeId="2ebf-f44d-b096-fa7d" name="Puños de Morko" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Unstable. Orc Caster: Deal d6-2(MD) to target disk within medium range, and to each disk within short range of the target disk."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Inestable. Hechicero Orco: inflinje d6-2(DM) a un disco objetivo situado a alcance medio o inferior, y también a todso los discos que estén a corto alcance del disco objetivo."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
               </profiles>
               <links/>
             </entry>
-            <entry id="fb5b-5c72-c6a9-78b6" name="Brain Bursta" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="fb5b-5c72-c6a9-78b6" name="Explota Cerebroz" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="2810-9bc5-730d-f6a2" profileTypeId="2ebf-f44d-b096-fa7d" name="Brain Bursta" hidden="false">
+                <profile id="2810-9bc5-730d-f6a2" profileTypeId="2ebf-f44d-b096-fa7d" name="Explota Cerebroz" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Unstable. Orc Caster: Deal d6-1(MD) to target enemy caster, character, hero, priest or runesmith within long range."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Inestable. Hechicero Orco. Inflinje d6-1(DM) a un objetivo hechicero, personaje, héroe, sacerdote o herrero rúnico enemigo situado a alcance largo o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -960,19 +960,19 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="10b4-5f98-b6be-b812" name="Vampire Counts" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="10b4-5f98-b6be-b812" name="Condes Vampiros" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="e17a-1d91-76ac-dfcb" name="Raise Dead" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="e17a-1d91-76ac-dfcb" name="Levantar los Muertos" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="9f92-0ee2-8704-584a" profileTypeId="2ebf-f44d-b096-fa7d" name="Raise Dead" hidden="false">
+                <profile id="9f92-0ee2-8704-584a" profileTypeId="2ebf-f44d-b096-fa7d" name="Levantar los Muertos" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Vampire Count Caster: Place a small or medium undead ally from your casualty pile onto the battlefield completely within short range. Place an Activation Token and a Reanimate token on that disk. "/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Conde Vampiro Hechicero: Añade un disco nomuerto aliado pequeño o mediano de la pila de bajas en el campo de batalla a alcance medio. Pon una Ficha de Activación i de Reanimar en ese disco."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -980,17 +980,18 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="3190-3b95-0534-654f" name="Invocation of Nehek" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3190-3b95-0534-654f" name="Invocación de Nehek" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="fee1-990a-f3be-f4cd" profileTypeId="2ebf-f44d-b096-fa7d" name="Invocation of Nehek" hidden="false">
+                <profile id="fee1-990a-f3be-f4cd" profileTypeId="2ebf-f44d-b096-fa7d" name="Invocación de Nehek" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="One Vampire Count Caster disk activated with this command gains reanimate 1."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Un disco Hechicero Conde Vampiro activado con esta carga gana Reanimar 1.
+"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -998,17 +999,18 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="ea92-2a0f-73a1-a5ff" name="Gaze of Nagash " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="ea92-2a0f-73a1-a5ff" name="Mirada de Nagash " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="be55-7c1b-b0b0-4d37" profileTypeId="2ebf-f44d-b096-fa7d" name="Gaze of Nagash " hidden="false">
+                <profile id="be55-7c1b-b0b0-4d37" profileTypeId="2ebf-f44d-b096-fa7d" name="Mirada de Nagash " hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Vampire Counts Caster: Deal 1 L to target non hero disk within medium range. If that disk is not activated, place O on it."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Conde Vampiro: Inflinje 1(DM) a un objetivo que no sea héroe a alcance medio. Si ese disco no estaba activado, añade una Ficha de Activación en él.
+"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -1016,17 +1018,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="b31e-9f16-d72a-ec1c" name="Dark Majesty" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b31e-9f16-d72a-ec1c" name="Majestad Oscura" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="311e-faee-08b6-4bdf" profileTypeId="2ebf-f44d-b096-fa7d" name="Dark Majesty" hidden="false">
+                <profile id="311e-faee-08b6-4bdf" profileTypeId="2ebf-f44d-b096-fa7d" name="Majestad Oscura" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Vampire Counts Caster: This disk cannot be flipped onto by an enemy until the end of the round."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Conde Vampiro: Este disco no puede ser trabado por un enemigo hasta el final del turno."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -1034,42 +1036,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="09fc-6a73-a4fb-0660" name="Beguile" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="09fc-6a73-a4fb-0660" name="Fascinación" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="67f1-5039-9179-7eb6" profileTypeId="2ebf-f44d-b096-fa7d" name="Beguile" hidden="false">
+                <profile id="67f1-5039-9179-7eb6" profileTypeId="2ebf-f44d-b096-fa7d" name="Fascinación" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Vampire Count Caster: Target disk within short range cannot deal damage as a defender until the end of the round."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
-          <links/>
-        </entryGroup>
-        <entryGroup id="c778-2cc7-a814-19a2" name="Dark Elves" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="959b-bec2-e26e-7223" name="Cloaked in Darkness" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles>
-                <profile id="493f-6914-108b-d87a" profileTypeId="2ebf-f44d-b096-fa7d" name="Cloaked in Darkness" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Ally Dark Elves disks gain immune (S)."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Conde Vampiro: Un disco objetivo a corto alcance no puede causar daño como defensor hasta el final de la ronda."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -1093,8 +1070,8 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
                 <profile id="bb61-94ab-f168-cd5b" profileTypeId="2ebf-f44d-b096-fa7d" name="Vermintide" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Unstable.Skaven Caster or Priest: Roll a d6 twice. Deal (PD) equal to the lower result to each other disk within short range."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Intestable. Hechicero Skaven o Sacerdote: Tira un d6 dos veces. Inflinje(DF) igual al resultado menor a todos los otros discos situados a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -1107,18 +1084,18 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="7214-8476-4c5b-1b1d" name=" Common" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="fc4e-bae4-cf27-fb11" name=" Comunes" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="4cc4-45dd-2821-e75d" name="Attack" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="f3b4-183b-aa0a-5ff2" name="Ataque" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="4c57-90b8-d265-3835" profileTypeId="2ebf-f44d-b096-fa7d" name="Attack" hidden="false">
+                <profile id="1c33-12af-2057-3719" profileTypeId="2ebf-f44d-b096-fa7d" name="Ataque" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
                     <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
@@ -1127,16 +1104,16 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="5dbd-80c1-adbd-89fc" name="Assault" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b106-0737-cbdd-efed" name="Asalto" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="aa3c-940c-dae2-5f73" profileTypeId="2ebf-f44d-b096-fa7d" name="Assault" hidden="false">
+                <profile id="16d8-7349-6bbc-8597" profileTypeId="2ebf-f44d-b096-fa7d" name="Asalto" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
                     <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
@@ -1145,16 +1122,16 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="24d6-dc01-1255-f4e6" name="Approach" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="0472-da4b-3456-6b2b" name="Aproximación" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="5149-1f1c-5981-0198" profileTypeId="2ebf-f44d-b096-fa7d" name="Approach" hidden="false">
+                <profile id="00aa-7c0c-bece-3efe" profileTypeId="2ebf-f44d-b096-fa7d" name="Aproximación" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
                     <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
@@ -1163,17 +1140,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="9400-e149-8c4d-4fb0" name="Stall" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="0a48-fe39-4a30-46be" name="Ganar tiempo" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="b24d-9346-f852-ac9e" profileTypeId="2ebf-f44d-b096-fa7d" name="Stall" hidden="false">
+                <profile id="2ff2-3863-e0ab-84c4" profileTypeId="2ebf-f44d-b096-fa7d" name="Ganar tiempo" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Slow"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hero: Empower target disk within medium range."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Héoe: Potencia un disco objetivo situado a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -1181,17 +1158,17 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="6eb7-6b5e-8b0b-813e" name="Push" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="ecfe-5283-e245-99a5" name="Brío" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="18e1-99ea-0af6-b544" profileTypeId="2ebf-f44d-b096-fa7d" name="Push" hidden="false">
+                <profile id="97bb-5020-3a3b-84d8" profileTypeId="2ebf-f44d-b096-fa7d" name="Brío" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hero: Empower target disk within medium range."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Héoe: Potencia un disco objetivo situado a alcance medio o inferior."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
                   </characteristics>
                   <modifiers/>
@@ -1199,17 +1176,125 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="94dc-61aa-8906-b2ca" name="Proven Champion" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="df3c-21d1-073d-f13a" name="Cebo" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="9797-2127-b4d6-3063" profileTypeId="2ebf-f44d-b096-fa7d" name="Proven Champion" hidden="false">
+                <profile id="d5ca-0a9f-0f0d-dffa" profileTypeId="2ebf-f44d-b096-fa7d" name="Cebo" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Héoe: Potencia un disco objetivo situado a alcance medio o inferior."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="ea4f-e29c-e628-dac7" name="Inspirar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="5a67-ca6e-19d2-16c8" profileTypeId="2ebf-f44d-b096-fa7d" name="Inspirar" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Héoe: Potencia un disco objetivo situado a alcance medio o inferior."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="70db-b87e-e11d-29aa" name="Acorralar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="74d2-d697-3dd4-c28b" profileTypeId="2ebf-f44d-b096-fa7d" name="Acorralar" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="add2-91de-0b42-b6d0" name="Tropas Ansiosas" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="bbb3-1dc5-24de-283e" profileTypeId="2ebf-f44d-b096-fa7d" name="Tropas Ansiosas" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Todos los discos activados con esta carta ganan 1 al Movimiento."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="a807-c8dc-9be0-737e" name="Ataque Arcano" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="3cdd-1ede-4f55-6547" profileTypeId="2ebf-f44d-b096-fa7d" name="Ataque Arcano" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Destruction Only. Hero: This disk gains fear until the end of the round."/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Inestable. Hechicero: Inflinje d6-1(DM) a un disco objetivo situado a alcance medio o inferior."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="4a01-3378-7d3a-46d2" name="Intimidar" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="711e-fd62-dbd7-512a" profileTypeId="2ebf-f44d-b096-fa7d" name="Intimidar" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Sólo Destrucción. Héroe: Voltea 1 vez un enemigo objetivo situado a corto alcance o inferior que no sea Héroe y que no esté trabado."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="a05b-309f-68dd-45f2" name="Campeón Reconocido" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="941d-674a-3e3e-20d3" profileTypeId="2ebf-f44d-b096-fa7d" name="Campeón Reconocido" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Sólo Destrucción. Héroe: Este disco gana Miedo hasta el final de la ronda."/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -1217,108 +1302,25 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="42d2-cac1-c528-f619" name="Lure" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+        <entryGroup id="1478-7fbd-ed89-31f5" name="Elfos Oscuros" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="c5b8-d855-2258-bc37" name="Capa de Oscuridad" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="17a4-e01e-d148-f6b9" profileTypeId="2ebf-f44d-b096-fa7d" name="Lure" hidden="false">
+                <profile id="b5d7-c885-6303-e065" profileTypeId="2ebf-f44d-b096-fa7d" name="Capa de Oscuridad" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hero: Empower target disk within medium range."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="f360-0656-1e89-fc6b" name="Intimidate" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles>
-                <profile id="9c10-af59-87a2-2102" profileTypeId="2ebf-f44d-b096-fa7d" name="Intimidate" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Destruction Only.Hero: Flip target non-hero, unpinned enemy within short range once. "/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="18e0-e439-6197-82fb" name="Inspire" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles>
-                <profile id="c22c-9326-be17-819b" profileTypeId="2ebf-f44d-b096-fa7d" name="Inspire" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Bold"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hero:  Empower target disk within medium range. "/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="b9d6-f3e3-69cf-6945" name="Entrap" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles>
-                <profile id="4fcc-8b83-917c-eacb" profileTypeId="2ebf-f44d-b096-fa7d" name="Entrap" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="4"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Devious"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="-"/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="4588-1f0d-fd40-b147" name="Eager Troops" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles>
-                <profile id="4317-a9c9-20cf-224f" profileTypeId="2ebf-f44d-b096-fa7d" name="Eager Troops" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Each disk activated with this command gains 1 movement."/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="f9f3-4a84-70a7-b430" name="Arcane Attack" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles>
-                <profile id="b3c1-41e7-5fab-d002" profileTypeId="2ebf-f44d-b096-fa7d" name="Arcane Attack" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
-                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Steady"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Unstable.Caster: Deal d6-1(MD) to target disk within medium range. "/>
-                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="Core"/>
+                    <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Los discos (Elfos Oscuros) aliados ganan inmunidad al Disparo."/>
+                    <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
                 </profile>
