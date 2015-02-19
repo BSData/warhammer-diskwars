@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="1e65-9499-3f73-8d1a" revision="4" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name=" Order (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="1e65-9499-3f73-8d1a" revision="5" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name=" Order (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="9010-8557-8cab-9d0e" name=" Order Command Cards" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -13,10 +13,10 @@
         </link>
       </links>
     </entry>
-    <entry id="005d-0b9c-e715-f537" name="Alarielle the Radiant" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="005d-0b9c-e715-f537" name="Alarielle the Radiant" points="35.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="8ee7-294f-5c43-3d4f" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="35.0" collective="false" hidden="false">
+        <entryGroup id="8ee7-294f-5c43-3d4f" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-35.0" maxPoints="35.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -54,10 +54,10 @@ A: Remove a wound from target disk within short range.
       </profiles>
       <links/>
     </entry>
-    <entry id="805c-f4b6-1d73-8aad" name="Chakax" points="0.0" categoryId="b2b6-5ff9-51bf-9e4b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="805c-f4b6-1d73-8aad" name="Chakax" points="34.0" categoryId="b2b6-5ff9-51bf-9e4b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="d288-b815-4269-b4bb" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="d288-b815-4269-b4bb" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -95,10 +95,10 @@ While engaged with a hero, this disk gains swift (Attack, Counter).
       </profiles>
       <links/>
     </entry>
-    <entry id="b11b-296a-bbe1-9afc" name="Drycha" points="0.0" categoryId="4b1f-d921-fad9-bd04" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="b11b-296a-bbe1-9afc" name="Drycha" points="34.0" categoryId="4b1f-d921-fad9-bd04" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="7739-24d0-bd15-b74b" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="7739-24d0-bd15-b74b" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -136,10 +136,10 @@ A: You can flip any number of unpinned forest allies once.
       </profiles>
       <links/>
     </entry>
-    <entry id="3e70-0ab1-8d0c-b8ad" name="Grombrindal the White Dwarf" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="3e70-0ab1-8d0c-b8ad" name="Grombrindal the White Dwarf" points="33.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="4ef4-6d9f-6e45-f9af" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="4ef4-6d9f-6e45-f9af" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -177,10 +177,10 @@ A: : Deal 3(PD) to each disk engaged with this disk.
       </profiles>
       <links/>
     </entry>
-    <entry id="b59d-07ae-4d32-973a" name="Karl Franz" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="0.0" collective="false" hidden="false">
+    <entry id="b59d-07ae-4d32-973a" name="Karl Franz" points="33.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="0.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="b710-2aec-fd6b-6250" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="b710-2aec-fd6b-6250" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -217,10 +217,10 @@ A: Move up to 2(Activation Tokens) from allies within long range to other unpinn
       </profiles>
       <links/>
     </entry>
-    <entry id="8772-6866-30e1-364b" name="Luthor Huss" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="8772-6866-30e1-364b" name="Luthor Huss" points="34.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="66fb-e7ef-5444-d650" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="66fb-e7ef-5444-d650" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -257,10 +257,10 @@ While empowered, this disk gains frenzy and resistant (PD) (MD).</description>
       </profiles>
       <links/>
     </entry>
-    <entry id="2f0b-c46f-42ef-e7e3" name="Queen Helga" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="2f0b-c46f-42ef-e7e3" name="Queen Helga" points="34.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="4a6a-0e88-c70b-18f1" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="4a6a-0e88-c70b-18f1" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -297,10 +297,10 @@ Each other (Drwaf) disk within short range gains swift (Attack).</description>
       </profiles>
       <links/>
     </entry>
-    <entry id="1646-0c63-03a0-14d9" name="Teclis" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="1646-0c63-03a0-14d9" name="Teclis" points="34.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="83b3-6b65-64ee-ce59" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="83b3-6b65-64ee-ce59" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -336,10 +336,10 @@ Each other (Drwaf) disk within short range gains swift (Attack).</description>
       </profiles>
       <links/>
     </entry>
-    <entry id="0887-dd4d-5978-fe3a" name="Thorgrim Grudgebearer" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="0887-dd4d-5978-fe3a" name="Thorgrim Grudgebearer" points="32.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="4950-20fd-3f7c-955f" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="32.0" collective="false" hidden="false">
+        <entryGroup id="4950-20fd-3f7c-955f" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-32.0" maxPoints="32.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -377,10 +377,10 @@ This disk gains impact 1 for each small (Dwarf) disk in your casualty pile.
       </profiles>
       <links/>
     </entry>
-    <entry id="ea95-b159-fa7a-48d1" name="Tyrion" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="ea95-b159-fa7a-48d1" name="Tyrion" points="34.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="497b-8dfe-d49e-1ee6" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="497b-8dfe-d49e-1ee6" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -418,10 +418,10 @@ When this disk engages an enemy, roll a d6. If  you roll 6, deal that enemy a wo
       </profiles>
       <links/>
     </entry>
-    <entry id="4cde-fc0a-9207-ba5f" name="Volkmar the Grim" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="4cde-fc0a-9207-ba5f" name="Volkmar the Grim" points="36.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="9f52-e6f7-bab9-885e" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="36.0" collective="false" hidden="false">
+        <entryGroup id="9f52-e6f7-bab9-885e" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-36.0" maxPoints="36.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -998,12 +998,12 @@ A: Empower target disk within short range.</description>
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="a00b-5115-7d53-eb6c" name="Dwarfs Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="a00b-5115-7d53-eb6c" name="Dwarfs Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="adf6-5923-a497-6fc4" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="adf6-5923-a497-6fc4" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="7432-f383-8a50-66db" name="Flame Cannon " points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="7432-f383-8a50-66db" name="Flame Cannon " points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1032,7 +1032,7 @@ S: Medium, 1D, 6(PD). If this disk rolls a (Hit) or (Critical Hit) during a rang
               </profiles>
               <links/>
             </entry>
-            <entry id="2ffa-748f-2adc-a5d2" name="Runic Cannon" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="2ffa-748f-2adc-a5d2" name="Runic Cannon" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1069,7 +1069,7 @@ S: Siege, 2D, 4(PD). Each (Hit) or (Critical Hit) also counts as (Scatter).
               </profiles>
               <links/>
             </entry>
-            <entry id="0f4e-c454-f01e-fb67" name="Gyrocopter" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="0f4e-c454-f01e-fb67" name="Gyrocopter" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1106,7 +1106,7 @@ S: Medium, 1D, 4(PD).
               </profiles>
               <links/>
             </entry>
-            <entry id="cf20-9d2a-e458-aeb7" name="Ancestor Statue" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="cf20-9d2a-e458-aeb7" name="Ancestor Statue" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1146,9 +1146,9 @@ A: Empower up to two target (Dwarf) disks within medium range.
           </modifiers>
           <links/>
         </entryGroup>
-        <entryGroup id="11dc-a980-b774-d19f" name="Small Disks" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="11dc-a980-b774-d19f" name="Small Disks" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="8392-ef44-4757-9ef6" name="Karak Azul Warriors " points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8392-ef44-4757-9ef6" name="Karak Azul Warriors " points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1177,7 +1177,7 @@ A: Empower up to two target (Dwarf) disks within medium range.
               </profiles>
               <links/>
             </entry>
-            <entry id="d7b3-1c28-e67f-4698" name="Karak  Hirn Miners" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="d7b3-1c28-e67f-4698" name="Karak  Hirn Miners" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1207,7 +1207,7 @@ This disk can reinforce overlapping any terrain if it does not pin an enemy.
               </profiles>
               <links/>
             </entry>
-            <entry id="17cd-638f-542c-3b12" name="Karaz-a-Karak Hammerers" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="17cd-638f-542c-3b12" name="Karaz-a-Karak Hammerers" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1236,7 +1236,7 @@ This disk can reinforce overlapping any terrain if it does not pin an enemy.
               </profiles>
               <links/>
             </entry>
-            <entry id="4016-3f48-1b13-06ca" name="Karaz-a-Karak Thunderers" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4016-3f48-1b13-06ca" name="Karaz-a-Karak Thunderers" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1266,7 +1266,7 @@ S: Medium, 2D, 4(PD).
               </profiles>
               <links/>
             </entry>
-            <entry id="16b5-c5a3-0dad-1d86" name="Master Engineer" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="16b5-c5a3-0dad-1d86" name="Master Engineer" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1296,7 +1296,7 @@ A: Remove 1 (Activtion Token) from target (Dwarf) war machine within short range
               </profiles>
               <links/>
             </entry>
-            <entry id="0f92-c025-ae5d-d9b1" name="Venerable Runesmith" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="0f92-c025-ae5d-d9b1" name="Venerable Runesmith" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1335,12 +1335,12 @@ A: Empower target (Dwarf) disk within short range.
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="09f8-fdb8-db49-20c0" name="Empire Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="09f8-fdb8-db49-20c0" name="Empire Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="542d-67fa-8347-5ac4" name="Small Disks" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="542d-67fa-8347-5ac4" name="Small Disks" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="8985-13ce-ecf0-a13f" name="Bright Wizard" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8985-13ce-ecf0-a13f" name="Bright Wizard" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1370,7 +1370,7 @@ When this disk uses magic, it takes 1 (MD).
               </profiles>
               <links/>
             </entry>
-            <entry id="863a-3de8-db22-37db" name="Huntsmen" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="863a-3de8-db22-37db" name="Huntsmen" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1400,7 +1400,7 @@ S: Long. 2D  2(PD).
               </profiles>
               <links/>
             </entry>
-            <entry id="3821-eb75-7a75-f586" name="Marienburg Swordsmen" points="5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3821-eb75-7a75-f586" name="Marienburg Swordsmen" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1429,7 +1429,7 @@ S: Long. 2D  2(PD).
               </profiles>
               <links/>
             </entry>
-            <entry id="4fc0-a2e2-c7d3-7f0c" name="Reikland Crossbowmen" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4fc0-a2e2-c7d3-7f0c" name="Reikland Crossbowmen" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1458,7 +1458,7 @@ S: Medium. 3D 3(PD).</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="99b2-ca4b-9ad1-c95a" name="Talabecland Halberiders" points="5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="99b2-ca4b-9ad1-c95a" name="Talabecland Halberiders" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1487,7 +1487,7 @@ S: Medium. 3D 3(PD).</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="2f01-5b27-e7a6-d27b" name="Talabheim Greatswords" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="2f01-5b27-e7a6-d27b" name="Talabheim Greatswords" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1522,9 +1522,9 @@ While pinning an enemy, this disk gains swift (Counter).
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="05e1-6191-cbd4-cb68" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="05e1-6191-cbd4-cb68" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="6c69-783a-efd5-3558" name="Hochland Pistoliers" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="6c69-783a-efd5-3558" name="Hochland Pistoliers" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1554,7 +1554,7 @@ A: Short. 2D 3(PD).
               </profiles>
               <links/>
             </entry>
-            <entry id="8bb1-845d-4e3c-df58" name="Warrior Priests " points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8bb1-845d-4e3c-df58" name="Warrior Priests " points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1584,7 +1584,7 @@ While empowered, this disk gains resistant (PD) (MD).
               </profiles>
               <links/>
             </entry>
-            <entry id="8614-6f46-99d6-8145" name="Knights Panther " points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8614-6f46-99d6-8145" name="Knights Panther " points="-10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1613,7 +1613,7 @@ While empowered, this disk gains resistant (PD) (MD).
               </profiles>
               <links/>
             </entry>
-            <entry id="ef4a-42fb-25ef-c59b" name="Hellblaster Volley Gun" points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="ef4a-42fb-25ef-c59b" name="Hellblaster Volley Gun" points="-10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1651,7 +1651,7 @@ If this disk rolls 2 or more X during a ranged attack, it takes 1 wound.
               </profiles>
               <links/>
             </entry>
-            <entry id="afcd-5313-aacd-b13d" name="Steam Tank" points="13.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="afcd-5313-aacd-b13d" name="Steam Tank" points="-13.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1705,12 +1705,12 @@ If this disk rolls 2 or more X during a ranged attack, it takes 1 wound.
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="eeda-6f47-ee9c-00bf" name="High Elves Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="eeda-6f47-ee9c-00bf" name="High Elves Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="2334-f989-3ca0-e1e8" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="2334-f989-3ca0-e1e8" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="be2b-7e81-2cd1-4629" name="Bolt Thrower " points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="be2b-7e81-2cd1-4629" name="Bolt Thrower " points="-10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1753,7 +1753,7 @@ S: Siege. 3D 3(PD)
               </profiles>
               <links/>
             </entry>
-            <entry id="355c-ad4b-2646-799b" name="Sun Dragon" points="15.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="355c-ad4b-2646-799b" name="Sun Dragon" points="-15.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1796,7 +1796,7 @@ A: Deal d6(PD) to target disk within medium range, and all disks that are engage
               </profiles>
               <links/>
             </entry>
-            <entry id="b358-e4e5-045b-12fe" name="Sky Cutter" points="11.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b358-e4e5-045b-12fe" name="Sky Cutter" points="-11.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1839,7 +1839,7 @@ S: Medium. 1D 3(True Damange)
               </profiles>
               <links/>
             </entry>
-            <entry id="5b96-eadc-dbc0-a0cc" name="Ellyrian Reavers" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="5b96-eadc-dbc0-a0cc" name="Ellyrian Reavers" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1868,7 +1868,7 @@ S: Medium. 1D 3(True Damange)
               </profiles>
               <links/>
             </entry>
-            <entry id="9614-00c7-6803-9626" name="Silver Helms" points="12.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="9614-00c7-6803-9626" name="Silver Helms" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1907,9 +1907,9 @@ S: Medium. 1D 3(True Damange)
           </modifiers>
           <links/>
         </entryGroup>
-        <entryGroup id="beb3-1350-db0f-f19f" name="Small Disks" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="beb3-1350-db0f-f19f" name="Small Disks" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="02d2-9488-8adf-06fb" name="High Mage" points="7.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="02d2-9488-8adf-06fb" name="High Mage" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1939,7 +1939,7 @@ Each ally disk within short range gains  resistant (MD).
               </profiles>
               <links/>
             </entry>
-            <entry id="4f42-b9d5-b294-50ea" name="Lothern Sea Guard  " points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4f42-b9d5-b294-50ea" name="Lothern Sea Guard  " points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1969,7 +1969,7 @@ S: Medium. 1D 2(PD)
               </profiles>
               <links/>
             </entry>
-            <entry id="542f-8a90-57ff-f83f" name="Maiden Guard" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="542f-8a90-57ff-f83f" name="Maiden Guard" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1999,7 +1999,7 @@ S: Long. 2D 3(MD), treat (Caos) as (Success)
               </profiles>
               <links/>
             </entry>
-            <entry id="c271-86f7-039e-259a" name="Militia Archers" points="6.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="c271-86f7-039e-259a" name="Militia Archers" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2029,7 +2029,7 @@ S: Long. 3D 2(PD).
               </profiles>
               <links/>
             </entry>
-            <entry id="face-cfaa-1de9-b717" name="Militia Spearmen  " points="6.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="face-cfaa-1de9-b717" name="Militia Spearmen  " points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2058,7 +2058,7 @@ S: Long. 3D 2(PD).
               </profiles>
               <links/>
             </entry>
-            <entry id="14ef-0d4e-5653-5a42" name="Swordmasters of Hoeth" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="14ef-0d4e-5653-5a42" name="Swordmasters of Hoeth" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2096,12 +2096,12 @@ S: Long. 3D 2(PD).
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="8dae-544c-93da-b9af" name="Lizardmen Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="8dae-544c-93da-b9af" name="Lizardmen Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="5e7c-0a39-a203-6d1b" name="Medium &amp; Large Units" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="5e7c-0a39-a203-6d1b" name="Medium &amp; Large Units" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="77c9-a825-e4ee-91e1" name="Salamander" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="77c9-a825-e4ee-91e1" name="Salamander" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2141,9 +2141,9 @@ A: Deal d6-1(PD) to target disk within short range.
           </modifiers>
           <links/>
         </entryGroup>
-        <entryGroup id="4f5d-ddcb-edd6-74cf" name="Small Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="4f5d-ddcb-edd6-74cf" name="Small Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="a912-7f4a-e3cb-08d2" name="Skink Skirmishers" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a912-7f4a-e3cb-08d2" name="Skink Skirmishers" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2182,10 +2182,10 @@ S: Medium. 2D 2(PD).
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="d360-2082-80bb-d6d6" name="Wood Elves Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="d360-2082-80bb-d6d6" name="Wood Elves Units" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="23bb-dc28-b452-285c" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="23bb-dc28-b452-285c" name="Medium &amp; Large Disks" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -2196,9 +2196,9 @@ S: Medium. 2D 2(PD).
           </modifiers>
           <links/>
         </entryGroup>
-        <entryGroup id="ecf1-dc22-40c7-dfba" name="Small Disks" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="ecf1-dc22-40c7-dfba" name="Small Disks" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="6bce-7979-f480-0bfd" name="Athel Loren Dryads" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="6bce-7979-f480-0bfd" name="Athel Loren Dryads" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2228,7 +2228,7 @@ When this disk overlaps a rough terrain after a flip, empower this disk.
               </profiles>
               <links/>
             </entry>
-            <entry id="3f45-1eaa-b317-45a7" name="Wardancers" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3f45-1eaa-b317-45a7" name="Wardancers" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>

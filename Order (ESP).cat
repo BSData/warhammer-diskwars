@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="7b5b-45d9-7710-80c5" revision="4" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Orden ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="7b5b-45d9-7710-80c5" revision="5" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Orden ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
-    <entry id="9010-8557-8cab-9d0e" name=" Cartas de Mando del Orden" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="9010-8557-8cab-9d0e" name=" Cartas de Mando del Orden" points="0.0" categoryId="a206-9f53-cb95-ef75" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -13,10 +13,10 @@
         </link>
       </links>
     </entry>
-    <entry id="005d-0b9c-e715-f537" name="Alarielle la Radiante" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="005d-0b9c-e715-f537" name="Alarielle la Radiante" points="35.0" categoryId="e242-70a0-821c-b3f0" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="8ee7-294f-5c43-3d4f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="35.0" collective="false" hidden="false">
+        <entryGroup id="8ee7-294f-5c43-3d4f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-35.0" maxPoints="35.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -54,10 +54,10 @@ A: Quita una ficha de herida de un disco objetivo situado a corto alcance.
       </profiles>
       <links/>
     </entry>
-    <entry id="805c-f4b6-1d73-8aad" name="Chakax" points="0.0" categoryId="b2b6-5ff9-51bf-9e4b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="805c-f4b6-1d73-8aad" name="Chakax" points="34.0" categoryId="4904-229e-e5f3-2886" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="d288-b815-4269-b4bb" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="d288-b815-4269-b4bb" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -95,10 +95,10 @@ Mientres esté trabado con un héroe, este disco gana veloz (Ataque, Contraataqu
       </profiles>
       <links/>
     </entry>
-    <entry id="b11b-296a-bbe1-9afc" name="Drycha" points="0.0" categoryId="4b1f-d921-fad9-bd04" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="b11b-296a-bbe1-9afc" name="Drycha" points="34.0" categoryId="075f-a117-9cb4-aaf1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="7739-24d0-bd15-b74b" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="7739-24d0-bd15-b74b" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -136,10 +136,10 @@ A: Puedes girar una vez cualquier numero de bosques aliados no trabados.
       </profiles>
       <links/>
     </entry>
-    <entry id="3e70-0ab1-8d0c-b8ad" name="Grombrindal el Enano Blanco" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="3e70-0ab1-8d0c-b8ad" name="Grombrindal el Enano Blanco" points="33.0" categoryId="f1b5-a2fc-da7d-74dc" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="4ef4-6d9f-6e45-f9af" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="4ef4-6d9f-6e45-f9af" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -177,10 +177,10 @@ A: Inflinje 3(DF) a cada disco trabado con este disco.
       </profiles>
       <links/>
     </entry>
-    <entry id="b59d-07ae-4d32-973a" name="Karl Franz" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="0.0" collective="false" hidden="false">
+    <entry id="b59d-07ae-4d32-973a" name="Karl Franz" points="33.0" categoryId="62b8-6a0d-7f6b-4a39" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="0.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="b710-2aec-fd6b-6250" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="b710-2aec-fd6b-6250" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -218,10 +218,10 @@ A: Mueve un máximo de 2 (Ficha Activación) desde aliados situados a largo alca
       </profiles>
       <links/>
     </entry>
-    <entry id="8772-6866-30e1-364b" name="Luthor Huss" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="8772-6866-30e1-364b" name="Luthor Huss" points="34.0" categoryId="62b8-6a0d-7f6b-4a39" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="66fb-e7ef-5444-d650" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="66fb-e7ef-5444-d650" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -258,10 +258,10 @@ Mientras este potenciado, ete disco gana furia asesina y resistencia (DF) (DM).<
       </profiles>
       <links/>
     </entry>
-    <entry id="2f0b-c46f-42ef-e7e3" name="Reina Helga" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="2f0b-c46f-42ef-e7e3" name="Reina Helga" points="34.0" categoryId="f1b5-a2fc-da7d-74dc" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="4a6a-0e88-c70b-18f1" name="Units" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="4a6a-0e88-c70b-18f1" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -299,10 +299,10 @@ Cada disco (Enano) situado a corto alcance gana Veloz (Ataque).
       </profiles>
       <links/>
     </entry>
-    <entry id="1646-0c63-03a0-14d9" name="Teclis" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="1646-0c63-03a0-14d9" name="Teclis" points="34.0" categoryId="e242-70a0-821c-b3f0" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="83b3-6b65-64ee-ce59" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="83b3-6b65-64ee-ce59" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -339,10 +339,10 @@ Cada disco (Enano) situado a corto alcance gana Veloz (Ataque).
       </profiles>
       <links/>
     </entry>
-    <entry id="0887-dd4d-5978-fe3a" name="Thorgrim Custodio de Agravios" points="0.0" categoryId="d029-860d-16ef-08c1" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="0887-dd4d-5978-fe3a" name="Thorgrim Custodio de Agravios" points="32.0" categoryId="f1b5-a2fc-da7d-74dc" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="4950-20fd-3f7c-955f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="32.0" collective="false" hidden="false">
+        <entryGroup id="4950-20fd-3f7c-955f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-32.0" maxPoints="32.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -380,10 +380,10 @@ Este disco gana Acometida 1 por cada disco (Enano) pequeño que haya en la pila 
       </profiles>
       <links/>
     </entry>
-    <entry id="ea95-b159-fa7a-48d1" name="Tyrion" points="0.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="ea95-b159-fa7a-48d1" name="Tyrion" points="34.0" categoryId="e242-70a0-821c-b3f0" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="497b-8dfe-d49e-1ee6" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="497b-8dfe-d49e-1ee6" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -421,10 +421,10 @@ Cuando este disco se enfrente a un enemigo, tira 1d6. Si sacas 6, inflinje una (
       </profiles>
       <links/>
     </entry>
-    <entry id="4cde-fc0a-9207-ba5f" name="Volkmar el Sombrío" points="0.0" categoryId="d956-8984-26f3-3844" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="4cde-fc0a-9207-ba5f" name="Volkmar el Sombrío" points="36.0" categoryId="62b8-6a0d-7f6b-4a39" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="9f52-e6f7-bab9-885e" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="36.0" collective="false" hidden="false">
+        <entryGroup id="9f52-e6f7-bab9-885e" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-36.0" maxPoints="36.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -1001,12 +1001,12 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="eeda-6f47-ee9c-00bf" name="Altos Elfos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="eeda-6f47-ee9c-00bf" name="Altos Elfos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="2334-f989-3ca0-e1e8" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="2334-f989-3ca0-e1e8" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="be2b-7e81-2cd1-4629" name="Lanzavirotes" points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="be2b-7e81-2cd1-4629" name="Lanzavirotes" points="-10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1049,7 +1049,7 @@ D: Asedio, 3D, 3(DF)
               </profiles>
               <links/>
             </entry>
-            <entry id="355c-ad4b-2646-799b" name="Dragon Solar" points="15.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="355c-ad4b-2646-799b" name="Dragon Solar" points="-15.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1092,7 +1092,7 @@ A: Inflinje d6(DF) a un disco objetivo situado a alcance medio o inferior, y tam
               </profiles>
               <links/>
             </entry>
-            <entry id="b358-e4e5-045b-12fe" name="Escolta Celestial" points="11.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b358-e4e5-045b-12fe" name="Escolta Celestial" points="-11.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1135,7 +1135,7 @@ D: Medio, 1D, 3(Daño auténtico)
               </profiles>
               <links/>
             </entry>
-            <entry id="5b96-eadc-dbc0-a0cc" name="Guardianes de Ellyrion" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="5b96-eadc-dbc0-a0cc" name="Guardianes de Ellyrion" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1164,7 +1164,7 @@ D: Medio, 1D, 3(Daño auténtico)
               </profiles>
               <links/>
             </entry>
-            <entry id="9614-00c7-6803-9626" name="Yelmos Plateados" points="12.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="9614-00c7-6803-9626" name="Yelmos Plateados" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1203,9 +1203,9 @@ D: Medio, 1D, 3(Daño auténtico)
           </modifiers>
           <links/>
         </entryGroup>
-        <entryGroup id="beb3-1350-db0f-f19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="beb3-1350-db0f-f19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="02d2-9488-8adf-06fb" name="Gran Mago" points="7.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="02d2-9488-8adf-06fb" name="Gran Mago" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1235,7 +1235,7 @@ Todo aliado situado a corto alcance gana Resistente a (DM).
               </profiles>
               <links/>
             </entry>
-            <entry id="4f42-b9d5-b294-50ea" name="Guardia del Mar de Lothern" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4f42-b9d5-b294-50ea" name="Guardia del Mar de Lothern" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1265,7 +1265,7 @@ D: Medio, 1D, 2(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="542f-8a90-57ff-f83f" name="Guardia de Doncellas" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="542f-8a90-57ff-f83f" name="Guardia de Doncellas" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1295,7 +1295,7 @@ D: Largo, 2D 3(DM), se tratab (Caos) como (Impacto)
               </profiles>
               <links/>
             </entry>
-            <entry id="c271-86f7-039e-259a" name="Arqueros de la Milicia" points="6.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="c271-86f7-039e-259a" name="Arqueros de la Milicia" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1325,7 +1325,7 @@ D: Largo, 3D, 2(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="14ef-0d4e-5653-5a42" name="Maestros de la Espada de Hoeth" points="9.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="14ef-0d4e-5653-5a42" name="Maestros de la Espada de Hoeth" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1354,7 +1354,7 @@ D: Largo, 3D, 2(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="5073-cab2-281a-60b0" name="Lanceros de la Milicia" points="6.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="5073-cab2-281a-60b0" name="Lanceros de la Milicia" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1392,10 +1392,10 @@ D: Largo, 3D, 2(DF).
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="d360-2082-80bb-d6d6" name="Elfos Silvanos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="d360-2082-80bb-d6d6" name="Elfos Silvanos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="23bb-dc28-b452-285c" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="23bb-dc28-b452-285c" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -1406,9 +1406,9 @@ D: Largo, 3D, 2(DF).
           </modifiers>
           <links/>
         </entryGroup>
-        <entryGroup id="ecf1-dc22-40c7-dfba" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="ecf1-dc22-40c7-dfba" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="6bce-7979-f480-0bfd" name="Dríades de Athel Loren" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="6bce-7979-f480-0bfd" name="Dríades de Athel Loren" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1438,7 +1438,7 @@ Cuando este disco pise un terreno escabroso despues de un volteo, potencia este 
               </profiles>
               <links/>
             </entry>
-            <entry id="3f45-1eaa-b317-45a7" name="Bailarines Guerreros" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3f45-1eaa-b317-45a7" name="Bailarines Guerreros" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1477,12 +1477,12 @@ Mientras no esté trabado, este disco gana 2(Ataque) y 2 (Contraataque).
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="a00b-5115-7d53-eb6c" name="Enanos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="a00b-5115-7d53-eb6c" name="Enanos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="adf6-5923-a497-6fc4" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="adf6-5923-a497-6fc4" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="7432-f383-8a50-66db" name="Cañón Lanzallamas" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="7432-f383-8a50-66db" name="Cañón Lanzallamas" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1512,7 +1512,7 @@ D: Medio, 1D, 6(DF). Si durante un ataque a distancia este disco obtiene (Impact
               </profiles>
               <links/>
             </entry>
-            <entry id="2ffa-748f-2adc-a5d2" name="Cañón Rúnico" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="2ffa-748f-2adc-a5d2" name="Cañón Rúnico" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1549,7 +1549,7 @@ D: Asedio, 2D, 4(DF). Cada (Impacto) o (Impacto Crítico) tambien cuenta como (D
               </profiles>
               <links/>
             </entry>
-            <entry id="0f4e-c454-f01e-fb67" name="Girocóptero" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="0f4e-c454-f01e-fb67" name="Girocóptero" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1586,7 +1586,7 @@ D: Medio, 1D, 4(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="cf20-9d2a-e458-aeb7" name="Estatua Ancestral" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="cf20-9d2a-e458-aeb7" name="Estatua Ancestral" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1626,9 +1626,9 @@ A: Potencia dos discos (Enanos) objetivos situados a alcance medio o inferior.
           </modifiers>
           <links/>
         </entryGroup>
-        <entryGroup id="11dc-a980-b774-d19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="11dc-a980-b774-d19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="8392-ef44-4757-9ef6" name="Guerreros de Karak Azul " points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8392-ef44-4757-9ef6" name="Guerreros de Karak Azul " points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1657,7 +1657,7 @@ A: Potencia dos discos (Enanos) objetivos situados a alcance medio o inferior.
               </profiles>
               <links/>
             </entry>
-            <entry id="d7b3-1c28-e67f-4698" name="Mineros de Karak Hirn" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="d7b3-1c28-e67f-4698" name="Mineros de Karak Hirn" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1687,7 +1687,7 @@ Este disco puede entrar como refuerzo solapando cualquier terreno que no esté p
               </profiles>
               <links/>
             </entry>
-            <entry id="17cd-638f-542c-3b12" name="Martilladores de Karaz-a-Karak" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="17cd-638f-542c-3b12" name="Martilladores de Karaz-a-Karak" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1716,7 +1716,7 @@ Este disco puede entrar como refuerzo solapando cualquier terreno que no esté p
               </profiles>
               <links/>
             </entry>
-            <entry id="4016-3f48-1b13-06ca" name="Atronadores de Karaz-a-Karak" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4016-3f48-1b13-06ca" name="Atronadores de Karaz-a-Karak" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1746,7 +1746,7 @@ D: Medio, 2D, 4(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="16b5-c5a3-0dad-1d86" name="Maestro Ingeniero" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="16b5-c5a3-0dad-1d86" name="Maestro Ingeniero" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1776,7 +1776,7 @@ A: Quita una Ficha de Activación de una máquina de guerra Enana objetivo situa
               </profiles>
               <links/>
             </entry>
-            <entry id="0f92-c025-ae5d-d9b1" name="Señor de las Runas" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="0f92-c025-ae5d-d9b1" name="Señor de las Runas" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1815,12 +1815,12 @@ A: Potencia el disco Enano objetivo a corto alcance.
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="8dae-544c-93da-b9af" name="Hombres Lagartos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="8dae-544c-93da-b9af" name="Hombres Lagartos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="5e7c-0a39-a203-6d1b" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="5e7c-0a39-a203-6d1b" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="77c9-a825-e4ee-91e1" name="Salamandra" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="77c9-a825-e4ee-91e1" name="Salamandra" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1860,9 +1860,9 @@ A: Inflinje d6-1(DF) a un disco objetivo situado a corto alcance.
           </modifiers>
           <links/>
         </entryGroup>
-        <entryGroup id="4f5d-ddcb-edd6-74cf" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="4f5d-ddcb-edd6-74cf" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="a912-7f4a-e3cb-08d2" name="Eslizones Camaleones" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a912-7f4a-e3cb-08d2" name="Eslizones Camaleones" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1901,12 +1901,12 @@ D: Medio, 2D, 2(DF).
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="09f8-fdb8-db49-20c0" name="Imperio: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="09f8-fdb8-db49-20c0" name="Imperio: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="542d-67fa-8347-5ac4" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="542d-67fa-8347-5ac4" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="8985-13ce-ecf0-a13f" name="Hechicero Brillante" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8985-13ce-ecf0-a13f" name="Hechicero Brillante" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1936,7 +1936,7 @@ Cuando este disco utiliza Magia, sufre 1(DM).
               </profiles>
               <links/>
             </entry>
-            <entry id="863a-3de8-db22-37db" name="Cazadores" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="863a-3de8-db22-37db" name="Cazadores" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1966,7 +1966,7 @@ D: Largo, 2D,  2(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="3821-eb75-7a75-f586" name="Espadachines de Marienburgo" points="5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3821-eb75-7a75-f586" name="Espadachines de Marienburgo" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1994,7 +1994,7 @@ D: Largo, 2D,  2(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="4fc0-a2e2-c7d3-7f0c" name="Ballesteros de Reikland" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4fc0-a2e2-c7d3-7f0c" name="Ballesteros de Reikland" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2024,7 +2024,7 @@ D: Medio, 3D, 3(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="99b2-ca4b-9ad1-c95a" name="Alabarderos de Talabecland" points="5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="99b2-ca4b-9ad1-c95a" name="Alabarderos de Talabecland" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2053,7 +2053,7 @@ D: Medio, 3D, 3(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="2f01-5b27-e7a6-d27b" name="Grandes Espaderos de Talabheim" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="2f01-5b27-e7a6-d27b" name="Grandes Espaderos de Talabheim" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2088,9 +2088,9 @@ Mientras esté trabando un enemigo, este disco gana Veloz (Contraataque).
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="05e1-6191-cbd4-cb68" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="05e1-6191-cbd4-cb68" name="Discos Medianos y Grandes." minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="6c69-783a-efd5-3558" name="Herreruelos de Hochland" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="6c69-783a-efd5-3558" name="Herreruelos de Hochland" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2120,7 +2120,7 @@ D: Corto, 2F, 3(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="8bb1-845d-4e3c-df58" name="Sacerdotes Guerreros" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8bb1-845d-4e3c-df58" name="Sacerdotes Guerreros" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2150,7 +2150,7 @@ Mientras este potenciado, este disco gana resistencia (DF) (DM).
               </profiles>
               <links/>
             </entry>
-            <entry id="8614-6f46-99d6-8145" name="Caballeros Pantera" points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8614-6f46-99d6-8145" name="Caballeros Pantera" points="-10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2179,7 +2179,7 @@ Mientras este potenciado, este disco gana resistencia (DF) (DM).
               </profiles>
               <links/>
             </entry>
-            <entry id="ef4a-42fb-25ef-c59b" name="Cañón de Salvas Hellblaster" points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="ef4a-42fb-25ef-c59b" name="Cañón de Salvas Hellblaster" points="-10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -2217,7 +2217,7 @@ Si este disco saca dos o más Fallos al efectuar un ataque a distáncia, sufre u
               </profiles>
               <links/>
             </entry>
-            <entry id="afcd-5313-aacd-b13d" name="Tanque a Vapor" points="13.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="afcd-5313-aacd-b13d" name="Tanque a Vapor" points="-13.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>

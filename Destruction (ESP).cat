@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="8539-b2af-71d4-ecb2" revision="4" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Destrucción ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8539-b2af-71d4-ecb2" revision="5" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Destrucción ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
-    <entry id="2cdc-6500-39fe-3fef" name=" Cartas de Mando de Destrucción" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="2cdc-6500-39fe-3fef" name=" Cartas de Mando de Destrucción" points="0.0" categoryId="a206-9f53-cb95-ef75" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups/>
       <modifiers/>
@@ -13,10 +13,10 @@
         </link>
       </links>
     </entry>
-    <entry id="885a-4a75-7079-f4bc" name="Archaón el Elegido" points="0.0" categoryId="3db3-9cc8-9919-873c" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="885a-4a75-7079-f4bc" name="Archaón el Elegido" points="33.0" categoryId="3db3-9cc8-9919-873c" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="3754-e4e2-bd9f-9fb8" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="3754-e4e2-bd9f-9fb8" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -54,10 +54,10 @@ Cuando este disco se enfrente a un enemigo, inflinge 1(DM) a todos los discos en
       </profiles>
       <links/>
     </entry>
-    <entry id="4a17-74de-6dfb-24fe" name="Azhag el Carnicero" points="0.0" categoryId="5d3a-1842-7c80-94c0" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="4a17-74de-6dfb-24fe" name="Azhag el Carnicero" points="33.0" categoryId="5e78-eb3d-b3e2-8e8f" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="cf6f-d541-6e03-fa7e" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="cf6f-d541-6e03-fa7e" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -94,10 +94,10 @@ Cuando este disco se enfrente a un enemigo, inflinge 1(DM) a todos los discos en
       </profiles>
       <links/>
     </entry>
-    <entry id="b50b-f7d9-96c2-402f" name="Grimgor Piel&apos;ierro" points="0.0" categoryId="5d3a-1842-7c80-94c0" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="b50b-f7d9-96c2-402f" name="Grimgor Piel&apos;ierro" points="33.0" categoryId="5e78-eb3d-b3e2-8e8f" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="5f5c-3e2f-bc89-e2c1" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="5f5c-3e2f-bc89-e2c1" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -135,10 +135,10 @@ Cuando este disco sufra una herida, quitale la ficha de activación (si se puede
       </profiles>
       <links/>
     </entry>
-    <entry id="2138-775f-561c-07d0" name="Grom el Panzudo" points="0.0" categoryId="5d3a-1842-7c80-94c0" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="2138-775f-561c-07d0" name="Grom el Panzudo" points="35.0" categoryId="5e78-eb3d-b3e2-8e8f" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="1e88-a509-e34c-b653" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="35.0" collective="false" hidden="false">
+        <entryGroup id="1e88-a509-e34c-b653" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-35.0" maxPoints="35.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -175,10 +175,10 @@ Cuando este disco sufra una herida, quitale la ficha de activación (si se puede
       </profiles>
       <links/>
     </entry>
-    <entry id="0a3e-783c-5337-5757" name="Heinrich Kemmler" points="0.0" categoryId="0567-e794-9171-93ba" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="0a3e-783c-5337-5757" name="Heinrich Kemmler" points="34.0" categoryId="f200-9b33-a0e4-cdee" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="6902-a5ea-ffbc-8421" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="34.0" collective="false" hidden="false">
+        <entryGroup id="6902-a5ea-ffbc-8421" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -216,10 +216,10 @@ Este disco puede usar reanimar para introduce como refuerzo 3 discos de Esquelet
       </profiles>
       <links/>
     </entry>
-    <entry id="08ed-309e-6327-b877" name="Ikit Claw" points="0.0" categoryId="127d-a3a5-866b-99c3" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="08ed-309e-6327-b877" name="Ikit Claw" points="33.0" categoryId="127d-a3a5-866b-99c3" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="2b81-a19a-074c-549c" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="2b81-a19a-074c-549c" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -257,10 +257,10 @@ Este disco puede usar magia contra el objetivo enemigo a distáncia larga.
       </profiles>
       <links/>
     </entry>
-    <entry id="3ce3-4f78-9a92-9e85" name="Isabella Von Carstein  " points="0.0" categoryId="0567-e794-9171-93ba" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="3ce3-4f78-9a92-9e85" name="Isabella Von Carstein  " points="33.0" categoryId="f200-9b33-a0e4-cdee" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="466e-6069-c0c9-a9ee" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="466e-6069-c0c9-a9ee" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -298,10 +298,10 @@ A: Quita una herida de este disco.
       </profiles>
       <links/>
     </entry>
-    <entry id="5702-135f-84f8-4caa" name="Kairos Tejedestinos" points="0.0" categoryId="3db3-9cc8-9919-873c" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="5702-135f-84f8-4caa" name="Kairos Tejedestinos" points="33.0" categoryId="3db3-9cc8-9919-873c" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="32f3-eaf3-6506-052f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="32f3-eaf3-6506-052f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -339,10 +339,10 @@ A: Introduce como refuerzo un disco demoníaco a alcance medio o inferior.
       </profiles>
       <links/>
     </entry>
-    <entry id="2938-b93e-a924-329c" name="Lokhir Fellheart" points="0.0" categoryId="a44a-45d0-6a7f-e915" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="2938-b93e-a924-329c" name="Lokhir Fellheart" points="33.0" categoryId="8cb3-dafd-cfd8-2ffc" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="5ff0-175b-9ff2-3bdc" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="5ff0-175b-9ff2-3bdc" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -380,10 +380,10 @@ Mientras este disco esté en el campo de batalla, los discos &quot;Corsarios&quo
       </profiles>
       <links/>
     </entry>
-    <entry id="f555-9447-a77e-7ccf" name="Mannfred Von Carstein" points="0.0" categoryId="0567-e794-9171-93ba" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="f555-9447-a77e-7ccf" name="Mannfred Von Carstein" points="31.0" categoryId="f200-9b33-a0e4-cdee" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="3587-9f24-7435-2f6f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="31.0" collective="false" hidden="false">
+        <entryGroup id="3587-9f24-7435-2f6f" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-31.0" maxPoints="31.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -420,10 +420,10 @@ Mientras este disco esté en el campo de batalla, los discos &quot;Corsarios&quo
       </profiles>
       <links/>
     </entry>
-    <entry id="2456-3088-5886-5f81" name="Valkia la Sanguinaria" points="0.0" categoryId="3db3-9cc8-9919-873c" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="2456-3088-5886-5f81" name="Valkia la Sanguinaria" points="33.0" categoryId="3db3-9cc8-9919-873c" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="e102-6941-4f89-f93e" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="33.0" collective="false" hidden="false">
+        <entryGroup id="e102-6941-4f89-f93e" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-33.0" maxPoints="33.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -466,340 +466,7 @@ Mientras esté potenciado, este disco gana veloz (Contra Ataque).
   <links/>
   <sharedEntries/>
   <sharedEntryGroups>
-    <entryGroup id="360a-2a6f-8e72-9593" name="Caos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
-      <entryGroups>
-        <entryGroup id="f9ee-e208-db59-3552" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="2624-07f1-abd9-83c1" name="Diablillas" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="2ad4-b9dd-b224-92bc" name="Diablillas" hidden="false">
-                  <description>Infantería. Demoníaco. Veloz (Ataque).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="1aa5-46ab-9f3c-be04" profileTypeId="7628-fefb-3693-417e" name="Diablillas" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="6"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="LoD"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="f4ce-c8f2-5f25-edeb" name="Incineradores" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="7038-74f5-7697-bd18" name="Incineradores" hidden="false">
-                  <description>Disparo. Demoníaco.
-D: Medio, 3D, 3(DM).
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="39a3-1806-e6b8-6f09" profileTypeId="7628-fefb-3693-417e" name="Incineradores" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="LoD"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="b162-4e81-73a6-ddea" name="Bárbaros Kurgan" points="5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="8991-bb27-0507-eb09" name="Bárbaros Kurgan" hidden="false">
-                  <description>Infantería.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="a3ce-e644-bf25-c243" profileTypeId="7628-fefb-3693-417e" name="Bárbaros Kurgan" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="5"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="cbae-b357-653d-eb67" name="Portadores de Plaga" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="07d5-6734-6c01-ba1a" name="Portadores de Plaga" hidden="false">
-                  <description>Infantería. Demoníaco. Lento (Ataque, Contraataque).
-Quita todas las potenciaciones de los enemigos a corto alcance.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="5d54-34a8-f13f-e48b" profileTypeId="7628-fefb-3693-417e" name="Portadores de Plaga" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="5"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="4cc8-39e1-b96d-3e81" name="Hechicero de Tzeentch" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="19ce-d852-0434-0c5a" name="Hechicero de Tzeentch" hidden="false">
-                  <description>Hechicero. Volador. Magia 2.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="acc5-ba0a-4535-8c9b" profileTypeId="7628-fefb-3693-417e" name="Hechicero de Tzeentch" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
-          <links/>
-        </entryGroup>
-        <entryGroup id="791e-be05-1659-6a85" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries>
-            <entry id="5648-7fe5-4a79-2b72" name="Devorador de Almas" points="15.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers>
-                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="360a-2a6f-8e72-9593" childId="1bdb-5a2d-328e-dec0" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-              <rules>
-                <rule id="58e6-4e8a-51ae-7134" name="Devorador de Almas" hidden="false">
-                  <description>Élite. Monstruo. Demoníaco. Volador. Furia asesina. Resistente a (DM).
-Si un enemigo sufre una herida durante un enfrentamiento con este disco, sufre otra herida adicional.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="776f-56a2-36e3-2b02" profileTypeId="7628-fefb-3693-417e" name="Devorador de Almas" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="6"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="6"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="15"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="1bdb-5a2d-328e-dec0" name="Cañón Infernal" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers>
-                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-                  <conditions>
-                    <condition parentId="360a-2a6f-8e72-9593" childId="5648-7fe5-4a79-2b72" field="selections" type="equal to" value="1.0"/>
-                  </conditions>
-                  <conditionGroups/>
-                </modifier>
-              </modifiers>
-              <rules>
-                <rule id="3025-6a30-cff5-915c" name="Cañón Infernal" hidden="false">
-                  <description>Élite. Máquina de guerra. Demoníaco. Acometida 5.
-D: Asedio, 3D, d6(DM).
-Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se voltea 1 vez hacia el disco más cercano al que no esté trabando.
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="21ca-0926-f8ee-2f8f" profileTypeId="7628-fefb-3693-417e" name="Cañón Infernal" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="1"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="0"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="12"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="2830-9498-4f26-b4df" name="Aplastadores" points="10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="1e82-8396-6137-f72d" name="Aplastadores" hidden="false">
-                  <description>Caballería. Demoníaco. Acometida d6.</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="c2ae-b31f-5a7b-20fa" profileTypeId="7628-fefb-3693-417e" name="Aplastadores" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="6"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="10"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="3637-2dfe-6aa0-c7f0" name="Cruzainfiernos" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="31b5-e60b-18bf-c43e" name="Cruzainfiernos" hidden="false">
-                  <description>Caballería. Acometida 2. Flanqueo.</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="37e5-8ddc-3fba-53a4" profileTypeId="7628-fefb-3693-417e" name="Cruzainfiernos" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="7"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-            <entry id="d9ce-7e2c-5028-1f6b" name="Aulladores" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules>
-                <rule id="fce5-0df2-6dcf-b6a1" name="Aulladores de Tzeentch" hidden="false">
-                  <description>Monstruo. Demoníaco. Volador. Miedo
-</description>
-                  <modifiers/>
-                </rule>
-              </rules>
-              <profiles>
-                <profile id="5ee0-0c88-1eb1-1c0b" profileTypeId="7628-fefb-3693-417e" name="Aulladores de Tzeentch" hidden="false">
-                  <characteristics>
-                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
-                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
-                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
-                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
-                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
-                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
-                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
-                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="LoD"/>
-                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
-                  </characteristics>
-                  <modifiers/>
-                </profile>
-              </profiles>
-              <links/>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers>
-            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="360a-2a6f-8e72-9593" incrementChildId="f9ee-e208-db59-3552" incrementField="selections" incrementValue="1.0">
-              <conditions/>
-              <conditionGroups/>
-            </modifier>
-          </modifiers>
-          <links/>
-        </entryGroup>
-      </entryGroups>
-      <modifiers/>
-      <links/>
-    </entryGroup>
-    <entryGroup id="89f6-fc1c-27f0-8822" name="Cartas de Mando" minSelections="2" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="89f6-fc1c-27f0-8822" name=" Cartas de Mando" minSelections="2" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
         <entryGroup id="b0cd-d1a5-a22a-cbbf" name="Caos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
@@ -990,8 +657,7 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Un disco Hechicero Conde Vampiro activado con esta carga gana Reanimar 1.
-"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Un disco Hechicero Conde Vampiro activado con esta carga gana Reanimar 1. "/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -1009,8 +675,7 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
-                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Conde Vampiro: Inflinje 1(DM) a un objetivo que no sea héroe a alcance medio. Si ese disco no estaba activado, añade una Ficha de Activación en él.
-"/>
+                    <characteristic characteristicId="b3ff-3bf8-5224-0687" name="Text" value="Hechicero Conde Vampiro: Inflinje 1(DM) a un objetivo que no sea héroe a alcance medio. Si ese disco no estaba activado, añade una Ficha de Activación en él. "/>
                     <characteristic characteristicId="2f14-1a61-022b-b9da" name="Set" value="LoD"/>
                   </characteristics>
                   <modifiers/>
@@ -1336,12 +1001,345 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="bc25-0a9c-74e3-1280" name="Condes Vampiro: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="360a-2a6f-8e72-9593" name="Caos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="81bc-38f2-01ef-64c6" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="f9ee-e208-db59-3552" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="743b-5570-e388-b22e" name="Nigromante" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="2624-07f1-abd9-83c1" name="Diablillas" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="2ad4-b9dd-b224-92bc" name="Diablillas" hidden="false">
+                  <description>Infantería. Demoníaco. Veloz (Ataque).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="1aa5-46ab-9f3c-be04" profileTypeId="7628-fefb-3693-417e" name="Diablillas" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="6"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="LoD"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="6"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="f4ce-c8f2-5f25-edeb" name="Incineradores" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="7038-74f5-7697-bd18" name="Incineradores" hidden="false">
+                  <description>Disparo. Demoníaco.
+D: Medio, 3D, 3(DM).
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="39a3-1806-e6b8-6f09" profileTypeId="7628-fefb-3693-417e" name="Incineradores" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="LoD"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="b162-4e81-73a6-ddea" name="Bárbaros Kurgan" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="8991-bb27-0507-eb09" name="Bárbaros Kurgan" hidden="false">
+                  <description>Infantería.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="a3ce-e644-bf25-c243" profileTypeId="7628-fefb-3693-417e" name="Bárbaros Kurgan" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="5"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="cbae-b357-653d-eb67" name="Portadores de Plaga" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="07d5-6734-6c01-ba1a" name="Portadores de Plaga" hidden="false">
+                  <description>Infantería. Demoníaco. Lento (Ataque, Contraataque).
+Quita todas las potenciaciones de los enemigos a corto alcance.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="5d54-34a8-f13f-e48b" profileTypeId="7628-fefb-3693-417e" name="Portadores de Plaga" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="5"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="5"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="4cc8-39e1-b96d-3e81" name="Hechicero de Tzeentch" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="19ce-d852-0434-0c5a" name="Hechicero de Tzeentch" hidden="false">
+                  <description>Hechicero. Volador. Magia 2.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="acc5-ba0a-4535-8c9b" profileTypeId="7628-fefb-3693-417e" name="Hechicero de Tzeentch" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="3"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="S"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+        <entryGroup id="791e-be05-1659-6a85" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="5648-7fe5-4a79-2b72" name="Devorador de Almas" points="-15.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers>
+                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                  <conditions>
+                    <condition parentId="360a-2a6f-8e72-9593" childId="1bdb-5a2d-328e-dec0" field="selections" type="equal to" value="1.0"/>
+                  </conditions>
+                  <conditionGroups/>
+                </modifier>
+              </modifiers>
+              <rules>
+                <rule id="58e6-4e8a-51ae-7134" name="Devorador de Almas" hidden="false">
+                  <description>Élite. Monstruo. Demoníaco. Volador. Furia asesina. Resistente a (DM).
+Si un enemigo sufre una herida durante un enfrentamiento con este disco, sufre otra herida adicional.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="776f-56a2-36e3-2b02" profileTypeId="7628-fefb-3693-417e" name="Devorador de Almas" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="6"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="6"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="1"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="15"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="1bdb-5a2d-328e-dec0" name="Cañón Infernal" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers>
+                <modifier type="set" field="maxSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                  <conditions>
+                    <condition parentId="360a-2a6f-8e72-9593" childId="5648-7fe5-4a79-2b72" field="selections" type="equal to" value="1.0"/>
+                  </conditions>
+                  <conditionGroups/>
+                </modifier>
+              </modifiers>
+              <rules>
+                <rule id="3025-6a30-cff5-915c" name="Cañón Infernal" hidden="false">
+                  <description>Élite. Máquina de guerra. Demoníaco. Acometida 5.
+D: Asedio, 3D, d6(DM).
+Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se voltea 1 vez hacia el disco más cercano al que no esté trabando.
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="21ca-0926-f8ee-2f8f" profileTypeId="7628-fefb-3693-417e" name="Cañón Infernal" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="1"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="0"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="L"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="12"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="2830-9498-4f26-b4df" name="Aplastadores" points="-10.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="1e82-8396-6137-f72d" name="Aplastadores" hidden="false">
+                  <description>Caballería. Demoníaco. Acometida d6.</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="c2ae-b31f-5a7b-20fa" profileTypeId="7628-fefb-3693-417e" name="Aplastadores" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="4"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="6"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="10"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="3637-2dfe-6aa0-c7f0" name="Cruzainfiernos" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="31b5-e60b-18bf-c43e" name="Cruzainfiernos" hidden="false">
+                  <description>Caballería. Acometida 2. Flanqueo.</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="37e5-8ddc-3fba-53a4" profileTypeId="7628-fefb-3693-417e" name="Cruzainfiernos" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="7"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="4"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="3"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="4"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="Core"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="8"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+            <entry id="d9ce-7e2c-5028-1f6b" name="Aulladores" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules>
+                <rule id="fce5-0df2-6dcf-b6a1" name="Aulladores de Tzeentch" hidden="false">
+                  <description>Monstruo. Demoníaco. Volador. Miedo
+</description>
+                  <modifiers/>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="5ee0-0c88-1eb1-1c0b" profileTypeId="7628-fefb-3693-417e" name="Aulladores de Tzeentch" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
+                    <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
+                    <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength" value="3"/>
+                    <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength" value="2"/>
+                    <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness" value="5"/>
+                    <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina" value="-"/>
+                    <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size" value="M"/>
+                    <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set" value="LoD"/>
+                    <characteristic characteristicId="f188-a474-6d55-44f0" name="Points" value="7"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links/>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers>
+            <modifier type="increment" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="360a-2a6f-8e72-9593" incrementChildId="f9ee-e208-db59-3552" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+          </modifiers>
+          <links/>
+        </entryGroup>
+      </entryGroups>
+      <modifiers/>
+      <links/>
+    </entryGroup>
+    <entryGroup id="bc25-0a9c-74e3-1280" name="Condes Vampiro: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups>
+        <entryGroup id="81bc-38f2-01ef-64c6" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="743b-5570-e388-b22e" name="Nigromante" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1370,7 +1368,7 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="d2e0-69d8-8fb4-f396" name="Lobos espectrales" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="d2e0-69d8-8fb4-f396" name="Lobos espectrales" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1399,7 +1397,7 @@ Si este disco saca 1 o más (Caos)  al efectuar un ataque a distáncia, se volte
               </profiles>
               <links/>
             </entry>
-            <entry id="5d6b-1b53-4321-6c36" name="Guardia de los Túmulos" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="5d6b-1b53-4321-6c36" name="Guardia de los Túmulos" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1429,7 +1427,7 @@ Mientras este trabado con un disco pequeño, este disco gana +1 al Ataque y +1 a
               </profiles>
               <links/>
             </entry>
-            <entry id="9dfc-ee94-83ca-5157" name="Guerreros esqueletos" points="4.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="9dfc-ee94-83ca-5157" name="Guerreros esqueletos" points="-4.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1458,7 +1456,7 @@ Mientras este trabado con un disco pequeño, este disco gana +1 al Ataque y +1 a
               </profiles>
               <links/>
             </entry>
-            <entry id="3c35-816b-6f5a-7357" name="Doncella espectral" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3c35-816b-6f5a-7357" name="Doncella espectral" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1493,9 +1491,9 @@ A: Inflinje d6-2(DM) a cada disco a corto alcance que no sea Conde Vampiro.
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="0cf9-7e6c-fec8-09a5" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="0cf9-7e6c-fec8-09a5" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="5565-7a59-7423-f2a1" name="Dragón Zombi" points="14.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="5565-7a59-7423-f2a1" name="Dragón Zombi" points="-14.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1532,7 +1530,7 @@ A: Inflinje d6-2(DF) a un disco objetivo situado a alcance medio o inferior, y p
               </profiles>
               <links/>
             </entry>
-            <entry id="f9e9-4a6d-aca9-f454" name="Carruaje Negro" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="f9e9-4a6d-aca9-f454" name="Carruaje Negro" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1569,7 +1567,7 @@ Mientras este potenciando, este disco gana +1 Mov. y Volador.
               </profiles>
               <links/>
             </entry>
-            <entry id="009e-0d72-a1d0-c39a" name="Caballeros Negros" points="11.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="009e-0d72-a1d0-c39a" name="Caballeros Negros" points="-11.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1598,7 +1596,7 @@ Mientras este potenciando, este disco gana +1 Mov. y Volador.
               </profiles>
               <links/>
             </entry>
-            <entry id="98ce-bced-180d-6cd6" name="Vargheists" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="98ce-bced-180d-6cd6" name="Vargheists" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1643,12 +1641,12 @@ Este disco no puede ser trabado por enemigos pequeños que no sean heroes.
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="5232-cca2-99e6-1860" name="Elfos Oscuros: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="5232-cca2-99e6-1860" name="Elfos Oscuros: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="ec63-7d1b-ad99-22ec" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="ec63-7d1b-ad99-22ec" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="8512-0cfc-cd29-8789" name="Corsarios de Arca Negra" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8512-0cfc-cd29-8789" name="Corsarios de Arca Negra" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1678,7 +1676,7 @@ D: Corto, 1D, 2(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="bb72-851a-0539-db5c" name="Arpías de Karond Kar" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="bb72-851a-0539-db5c" name="Arpías de Karond Kar" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1713,7 +1711,7 @@ Los discos trabajos con este disco ganan Lento (Ataque, Contrataaque).
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="7dba-e201-4506-7da9" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="7dba-e201-4506-7da9" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -1728,12 +1726,12 @@ Los discos trabajos con este disco ganan Lento (Ataque, Contrataaque).
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="6c31-b37d-4031-422f" name="Orcos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="6c31-b37d-4031-422f" name="Orcos: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="7b96-7643-8ac4-0756" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="7b96-7643-8ac4-0756" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="4c94-5fb7-6344-4e4c" name="Peña de Arqueroz Orkoz" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4c94-5fb7-6344-4e4c" name="Peña de Arqueroz Orkoz" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1763,7 +1761,7 @@ S: Long, 2D, 2(PD).
               </profiles>
               <links/>
             </entry>
-            <entry id="48af-2d4a-9828-20ac" name="Gran Jefe" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="48af-2d4a-9828-20ac" name="Gran Jefe" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1823,7 +1821,7 @@ Mientras esté trabando a un enemigo, este disco gana +2 a la Resistencia.
               </profiles>
               <links/>
             </entry>
-            <entry id="271a-48e1-5181-a7cf" name="Goblin Volador" points="4.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="271a-48e1-5181-a7cf" name="Goblin Volador" points="-4.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1853,7 +1851,7 @@ Este disco no puede desplegarse y solo puede ser introducido como refuerzo por l
               </profiles>
               <links/>
             </entry>
-            <entry id="a10d-5e61-3205-1f75" name="Goblins Nocturnos" points="4.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a10d-5e61-3205-1f75" name="Goblins Nocturnos" points="-4.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1883,7 +1881,7 @@ Mientres esté a corto alcance de al menos un disco Orco, este disco gana +1 al 
               </profiles>
               <links/>
             </entry>
-            <entry id="f43b-e357-a96c-5f94" name="Peña de Guerreroz Orcoz" points="6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="f43b-e357-a96c-5f94" name="Peña de Guerreroz Orcoz" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1912,7 +1910,7 @@ Mientres esté a corto alcance de al menos un disco Orco, este disco gana +1 al 
               </profiles>
               <links/>
             </entry>
-            <entry id="9be1-c0c0-ce09-55b6" name="Chamán de los Piñoz Pétreoz" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="9be1-c0c0-ce09-55b6" name="Chamán de los Piñoz Pétreoz" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1947,9 +1945,9 @@ X es el número de unidades (Orcos) que estén a corto alcance de este disco.
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="7b43-fc88-df81-6795" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="7b43-fc88-df81-6795" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="2f74-2a77-3ce4-01b5" name="Lanzapiedroz" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="2f74-2a77-3ce4-01b5" name="Lanzapiedroz" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1986,7 +1984,7 @@ D: Asedio, 2D, d6(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="b5c9-ed21-20ef-e54f" name="Troll de Rio" points="12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b5c9-ed21-20ef-e54f" name="Troll de Rio" points="-12.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -2023,7 +2021,7 @@ D: Corto, 1D, 10(DF). Ignora (desvio).
               </profiles>
               <links/>
             </entry>
-            <entry id="d7dd-9515-5cd4-866e" name="Peña de Jinetez de Jabalí" points="11.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="d7dd-9515-5cd4-866e" name="Peña de Jinetez de Jabalí" points="-11.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2051,7 +2049,7 @@ D: Corto, 1D, 10(DF). Ignora (desvio).
               </profiles>
               <links/>
             </entry>
-            <entry id="f975-d98b-c5e9-a9ad" name="Katapulta de Goblins Voladores" points="5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="f975-d98b-c5e9-a9ad" name="Katapulta de Goblins Voladores" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2081,7 +2079,7 @@ A: Introduce como refuerzo un &quot;Goblin Volador&quot; a alcance medio.
               </profiles>
               <links/>
             </entry>
-            <entry id="e1f4-5d4d-6558-7c14" name="Jinetez de Lobo" points="8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="e1f4-5d4d-6558-7c14" name="Jinetez de Lobo" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2125,12 +2123,12 @@ D: Medio, 2D, 2(DF).
       <modifiers/>
       <links/>
     </entryGroup>
-    <entryGroup id="c216-5cba-b587-75ad" name="Skaven: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entryGroup id="c216-5cba-b587-75ad" name="Skaven: Unidades" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
-        <entryGroup id="5286-f528-6635-4ec9" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="5286-f528-6635-4ec9" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="260e-b412-037a-43a0" name="Corredores de Sombras" points="7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="260e-b412-037a-43a0" name="Corredores de Sombras" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -2165,9 +2163,9 @@ D: Medio, 2D, 2(DF).
           <modifiers/>
           <links/>
         </entryGroup>
-        <entryGroup id="89ef-4f81-ab73-60b7" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entryGroup id="89ef-4f81-ab73-60b7" name="Discos Medianos y Grandes" minSelections="0" maxSelections="0" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="7950-c904-b3a2-392e" name="Amerratadora" points="9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="7950-c904-b3a2-392e" name="Amerratadora" points="-9.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
