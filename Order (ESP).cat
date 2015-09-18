@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="7b5b-45d9-7710-80c5" revision="5" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Orden ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="7b5b-45d9-7710-80c5" revision="6" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Orden ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="9010-8557-8cab-9d0e" name=" Cartas de Mando del Orden" points="0.0" categoryId="a206-9f53-cb95-ef75" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -258,7 +258,7 @@ Mientras este potenciado, ete disco gana furia asesina y resistencia (DF) (DM).<
       </profiles>
       <links/>
     </entry>
-    <entry id="2f0b-c46f-42ef-e7e3" name="Reina Helga" points="34.0" categoryId="f1b5-a2fc-da7d-74dc" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="2f0b-c46f-42ef-e7e3" name="Reina Helgar" points="34.0" categoryId="f1b5-a2fc-da7d-74dc" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups>
         <entryGroup id="4a6a-0e88-c70b-18f1" name="Unidades" minSelections="1" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-34.0" maxPoints="34.0" collective="false" hidden="false">
@@ -274,7 +274,7 @@ Mientras este potenciado, ete disco gana furia asesina y resistencia (DF) (DM).<
       </entryGroups>
       <modifiers/>
       <rules>
-        <rule id="2536-4540-82c6-d085" name=" Reina Helga" hidden="false">
+        <rule id="2536-4540-82c6-d085" name=" Reina Helgar" hidden="false">
           <description>Héroe. Resistente a (DM). Veloz (Contraataque).
 Cada disco (Enano) situado a corto alcance gana Veloz (Ataque).
 </description>
@@ -282,7 +282,7 @@ Cada disco (Enano) situado a corto alcance gana Veloz (Ataque).
         </rule>
       </rules>
       <profiles>
-        <profile id="a501-85b2-d709-0cbc" profileTypeId="7628-fefb-3693-417e" name=" Reina Helga" hidden="false">
+        <profile id="a501-85b2-d709-0cbc" profileTypeId="7628-fefb-3693-417e" name=" Reina Helgar" hidden="false">
           <characteristics>
             <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="2"/>
             <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -791,13 +791,13 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="a003-7acd-76f3-b159" name="Runa de la Partición" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a003-7acd-76f3-b159" name="Runa de la Fuerza" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="d6fa-c986-ce98-9ff1" profileTypeId="2ebf-f44d-b096-fa7d" name="Runa de la Partición" hidden="false">
+                <profile id="d6fa-c986-ce98-9ff1" profileTypeId="2ebf-f44d-b096-fa7d" name="Runa de la Fuerza" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
@@ -845,13 +845,13 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
               </profiles>
               <links/>
             </entry>
-            <entry id="5ad3-b875-3c79-3f00" name="Mantenerse Firme" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="5ad3-b875-3c79-3f00" name="Mantenerse Firmes" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="d160-115b-9d95-83ba" profileTypeId="2ebf-f44d-b096-fa7d" name="Mantenerse Firme" hidden="false">
+                <profile id="d160-115b-9d95-83ba" profileTypeId="2ebf-f44d-b096-fa7d" name="Mantenerse Firmes" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
@@ -870,13 +870,13 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
         </entryGroup>
         <entryGroup id="c424-aa44-f667-a1aa" name="Hombres Lagartos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="4327-f7a1-4c75-4665" name="Golpe en Salto" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="4327-f7a1-4c75-4665" name="Ataque en Salto" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="f100-c156-d9f8-931e" profileTypeId="2ebf-f44d-b096-fa7d" name="Golpe en Salto" hidden="false">
+                <profile id="f100-c156-d9f8-931e" profileTypeId="2ebf-f44d-b096-fa7d" name="Ataque en Salto" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
@@ -920,13 +920,13 @@ A: Potencia un disco objetivo situado a alcance corto.</description>
         </entryGroup>
         <entryGroup id="e9c1-9187-b53d-dd30" name="Altos Elfos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="1e73-f873-690b-e63b" name="Caridad de Isha" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="1e73-f873-690b-e63b" name="Misericordia de Isha" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="ff42-e81e-ee2c-0e10" profileTypeId="2ebf-f44d-b096-fa7d" name="Caridad de Isha" hidden="false">
+                <profile id="ff42-e81e-ee2c-0e10" profileTypeId="2ebf-f44d-b096-fa7d" name="Misericordia de Isha" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
@@ -1586,7 +1586,7 @@ D: Medio, 1D, 4(DF).
               </profiles>
               <links/>
             </entry>
-            <entry id="cf20-9d2a-e458-aeb7" name="Estatua Ancestral" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="cf20-9d2a-e458-aeb7" name="Estatua de Ancestro" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1599,7 +1599,7 @@ A: Potencia dos discos (Enanos) objetivos situados a alcance medio o inferior.
                 </rule>
               </rules>
               <profiles>
-                <profile id="6d22-2ea0-0712-cc04" profileTypeId="7628-fefb-3693-417e" name="Estatua Ancestral" hidden="false">
+                <profile id="6d22-2ea0-0712-cc04" profileTypeId="7628-fefb-3693-417e" name="Estatua de Ancestro" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="-"/>
@@ -1628,19 +1628,19 @@ A: Potencia dos discos (Enanos) objetivos situados a alcance medio o inferior.
         </entryGroup>
         <entryGroup id="11dc-a980-b774-d19f" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="8392-ef44-4757-9ef6" name="Guerreros de Karak Azul " points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="8392-ef44-4757-9ef6" name="Guerreros de Karak-Azul" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules>
-                <rule id="5514-f31e-9f50-2cf9" name="Guerreros de Karak Azul " hidden="false">
+                <rule id="5514-f31e-9f50-2cf9" name="Guerreros de Karak-Azul" hidden="false">
                   <description>Infantería.
 </description>
                   <modifiers/>
                 </rule>
               </rules>
               <profiles>
-                <profile id="2faf-d76f-9d03-c0cc" profileTypeId="7628-fefb-3693-417e" name="Guerreros de Karak Azul " hidden="false">
+                <profile id="2faf-d76f-9d03-c0cc" profileTypeId="7628-fefb-3693-417e" name="Guerreros de Karak-Azul" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -1657,12 +1657,12 @@ A: Potencia dos discos (Enanos) objetivos situados a alcance medio o inferior.
               </profiles>
               <links/>
             </entry>
-            <entry id="d7b3-1c28-e67f-4698" name="Mineros de Karak Hirn" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="d7b3-1c28-e67f-4698" name="Mineros de Karak-Hirn" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules>
-                <rule id="09cc-9b05-995e-ac89" name="Mineros de Karak Hirn" hidden="false">
+                <rule id="09cc-9b05-995e-ac89" name="Mineros de Karak-Hirn" hidden="false">
                   <description>Infantería.
 Este disco puede entrar como refuerzo solapando cualquier terreno que no esté pisando un enemigo.
 </description>
@@ -1670,7 +1670,7 @@ Este disco puede entrar como refuerzo solapando cualquier terreno que no esté p
                 </rule>
               </rules>
               <profiles>
-                <profile id="91eb-8e8c-6258-b161" profileTypeId="7628-fefb-3693-417e" name="Mineros de Karak Hirn" hidden="false">
+                <profile id="91eb-8e8c-6258-b161" profileTypeId="7628-fefb-3693-417e" name="Mineros de Karak-Hirn" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="3"/>
@@ -1776,12 +1776,12 @@ A: Quita una Ficha de Activación de una máquina de guerra Enana objetivo situa
               </profiles>
               <links/>
             </entry>
-            <entry id="0f92-c025-ae5d-d9b1" name="Señor de las Runas" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="0f92-c025-ae5d-d9b1" name="Herrero rúnico venerable" points="-6.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules>
-                <rule id="bd4c-0350-b122-97dc" name="Señor de las Runas" hidden="false">
+                <rule id="bd4c-0350-b122-97dc" name="Herrero rúnico venerable" hidden="false">
                   <description>Herrero Rúnico. Movilidad.
 A: Potencia el disco Enano objetivo a corto alcance.
 </description>
@@ -1789,7 +1789,7 @@ A: Potencia el disco Enano objetivo a corto alcance.
                 </rule>
               </rules>
               <profiles>
-                <profile id="9f82-cef5-3fd6-4256" profileTypeId="7628-fefb-3693-417e" name="Señor de las Runas" hidden="false">
+                <profile id="9f82-cef5-3fd6-4256" profileTypeId="7628-fefb-3693-417e" name="Herrero rúnico venerable" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="4"/>
@@ -1862,12 +1862,12 @@ A: Inflinje d6-1(DF) a un disco objetivo situado a corto alcance.
         </entryGroup>
         <entryGroup id="4f5d-ddcb-edd6-74cf" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="a912-7f4a-e3cb-08d2" name="Eslizones Camaleones" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a912-7f4a-e3cb-08d2" name="Hostigadores Eslizones" points="-8.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules>
-                <rule id="e222-cd06-055a-affa" name="Eslizones Camaleones" hidden="false">
+                <rule id="e222-cd06-055a-affa" name="Hostigadores Eslizones" hidden="false">
                   <description>Disparo. Movilidad. Veneno.
 D: Medio, 2D, 2(DF).
 </description>
@@ -1875,7 +1875,7 @@ D: Medio, 2D, 2(DF).
                 </rule>
               </rules>
               <profiles>
-                <profile id="7198-e3eb-569d-cd18" profileTypeId="7628-fefb-3693-417e" name="Eslizones Camaleones" hidden="false">
+                <profile id="7198-e3eb-569d-cd18" profileTypeId="7628-fefb-3693-417e" name="Hostigadores Eslizones" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="8539-b2af-71d4-ecb2" revision="5" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Destrucción ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8539-b2af-71d4-ecb2" revision="6" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name="Destrucción ESP (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="2cdc-6500-39fe-3fef" name=" Cartas de Mando de Destrucción" points="0.0" categoryId="a206-9f53-cb95-ef75" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -193,7 +193,7 @@ Cuando este disco sufra una herida, quitale la ficha de activación (si se puede
       <rules>
         <rule id="2a9e-6e3c-8d27-9ea5" name=" Heinrich Kemmler  " hidden="false">
           <description>Héroe. Hechiero. Magia 3. Reanimar 1.
-Este disco puede usar reanimar para introduce como refuerzo 3 discos de Esqueletos.
+Este disco puede usar reanimar para introducir 3 discos de &quot;Esqueletos&quot;.
 </description>
           <modifiers/>
         </rule>
@@ -525,13 +525,13 @@ Mientras esté potenciado, este disco gana veloz (Contra Ataque).
               </profiles>
               <links/>
             </entry>
-            <entry id="3cf4-354f-df48-f27a" name="Aquiesencia" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="3cf4-354f-df48-f27a" name="Sometimiento" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="185f-497f-9c64-6cf0" profileTypeId="2ebf-f44d-b096-fa7d" name="Aquiesencia" hidden="false">
+                <profile id="185f-497f-9c64-6cf0" profileTypeId="2ebf-f44d-b096-fa7d" name="Sometimiento" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Directa"/>
@@ -550,13 +550,13 @@ Mientras esté potenciado, este disco gana veloz (Contra Ataque).
         </entryGroup>
         <entryGroup id="0f1a-b53e-a638-170f" name="Orcos" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="df19-9553-200f-e691" name="Waaagh!" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="df19-9553-200f-e691" name="¡Waaagh!" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="d7ba-19e9-abdf-3269" profileTypeId="2ebf-f44d-b096-fa7d" name="Waaagh!" hidden="false">
+                <profile id="d7ba-19e9-abdf-3269" profileTypeId="2ebf-f44d-b096-fa7d" name="¡Waaagh!" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
@@ -604,13 +604,13 @@ Mientras esté potenciado, este disco gana veloz (Contra Ataque).
               </profiles>
               <links/>
             </entry>
-            <entry id="fb5b-5c72-c6a9-78b6" name="Explota Cerebroz" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="fb5b-5c72-c6a9-78b6" name="Explotazerebro" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="2810-9bc5-730d-f6a2" profileTypeId="2ebf-f44d-b096-fa7d" name="Explota Cerebroz" hidden="false">
+                <profile id="2810-9bc5-730d-f6a2" profileTypeId="2ebf-f44d-b096-fa7d" name="Explotazerebro" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
@@ -683,13 +683,13 @@ Mientras esté potenciado, este disco gana veloz (Contra Ataque).
               </profiles>
               <links/>
             </entry>
-            <entry id="b31e-9f16-d72a-ec1c" name="Majestad Oscura" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="b31e-9f16-d72a-ec1c" name="Negra Majestuosidad" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="311e-faee-08b6-4bdf" profileTypeId="2ebf-f44d-b096-fa7d" name="Majestad Oscura" hidden="false">
+                <profile id="311e-faee-08b6-4bdf" profileTypeId="2ebf-f44d-b096-fa7d" name="Negra Majestuosidad" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Astuta"/>
@@ -726,13 +726,13 @@ Mientras esté potenciado, este disco gana veloz (Contra Ataque).
         </entryGroup>
         <entryGroup id="d5c3-0d26-d87e-0179" name="Skavens" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="e982-2b51-46c6-4621" name="Vermintide" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="e982-2b51-46c6-4621" name="Marea de alimañas" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="bb61-94ab-f168-cd5b" profileTypeId="2ebf-f44d-b096-fa7d" name="Vermintide" hidden="false">
+                <profile id="bb61-94ab-f168-cd5b" profileTypeId="2ebf-f44d-b096-fa7d" name="Marea de alimañas" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Lenta"/>
@@ -949,13 +949,13 @@ Mientras esté potenciado, este disco gana veloz (Contra Ataque).
               </profiles>
               <links/>
             </entry>
-            <entry id="a05b-309f-68dd-45f2" name="Campeón Reconocido" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a05b-309f-68dd-45f2" name="Paladín Consagrado" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="941d-674a-3e3e-20d3" profileTypeId="2ebf-f44d-b096-fa7d" name="Campeón Reconocido" hidden="false">
+                <profile id="941d-674a-3e3e-20d3" profileTypeId="2ebf-f44d-b096-fa7d" name="Paladín Consagrado" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="2"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
@@ -974,13 +974,13 @@ Mientras esté potenciado, este disco gana veloz (Contra Ataque).
         </entryGroup>
         <entryGroup id="1478-7fbd-ed89-31f5" name="Elfos Oscuros" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="c5b8-d855-2258-bc37" name="Capa de Oscuridad" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="c5b8-d855-2258-bc37" name="Envueltos en Tinieblas" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules/>
               <profiles>
-                <profile id="b5d7-c885-6303-e065" profileTypeId="2ebf-f44d-b096-fa7d" name="Capa de Oscuridad" hidden="false">
+                <profile id="b5d7-c885-6303-e065" profileTypeId="2ebf-f44d-b096-fa7d" name="Envueltos en Tinieblas" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="9168-0a99-84b3-6bc4" name="Activation" value="3"/>
                     <characteristic characteristicId="6212-34ac-6fc3-07bb" name="Strategy" value="Audaz"/>
@@ -1851,12 +1851,12 @@ Este disco no puede desplegarse y solo puede ser introducido como refuerzo por l
               </profiles>
               <links/>
             </entry>
-            <entry id="a10d-5e61-3205-1f75" name="Goblins Nocturnos" points="-4.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="a10d-5e61-3205-1f75" name="Goblinz Nokturnoz" points="-4.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules>
-                <rule id="4b26-a29a-e796-34e5" name="Goblins Nocturnos" hidden="false">
+                <rule id="4b26-a29a-e796-34e5" name="Goblinz Nokturnoz" hidden="false">
                   <description>Infantería.
 Mientres esté a corto alcance de al menos un disco Orco, este disco gana +1 al Ataque y +1 al Contraataque.
 </description>
@@ -1864,7 +1864,7 @@ Mientres esté a corto alcance de al menos un disco Orco, este disco gana +1 al 
                 </rule>
               </rules>
               <profiles>
-                <profile id="7392-dad0-676f-b180" profileTypeId="7628-fefb-3693-417e" name="Goblins Nocturnos" hidden="false">
+                <profile id="7392-dad0-676f-b180" profileTypeId="7628-fefb-3693-417e" name="Goblinz Nokturnoz" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="5"/>
@@ -2049,12 +2049,12 @@ D: Corto, 1D, 10(DF). Ignora (desvio).
               </profiles>
               <links/>
             </entry>
-            <entry id="f975-d98b-c5e9-a9ad" name="Katapulta de Goblins Voladores" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="f975-d98b-c5e9-a9ad" name="Katapulta de Goblinz Voladorez" points="-5.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules>
-                <rule id="d812-1db6-9b36-ddc8" name="Katapulta de Goblins Voladores" hidden="false">
+                <rule id="d812-1db6-9b36-ddc8" name="Katapulta de Goblinz Voladorez" hidden="false">
                   <description>Máquina de Guerra.
 A: Introduce como refuerzo un &quot;Goblin Volador&quot; a alcance medio.
 </description>
@@ -2062,7 +2062,7 @@ A: Introduce como refuerzo un &quot;Goblin Volador&quot; a alcance medio.
                 </rule>
               </rules>
               <profiles>
-                <profile id="73ed-8ab5-0aa1-2968" profileTypeId="7628-fefb-3693-417e" name="Katapulta de Goblins Voladores" hidden="false">
+                <profile id="73ed-8ab5-0aa1-2968" profileTypeId="7628-fefb-3693-417e" name="Katapulta de Goblinz Voladorez" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="2"/>
@@ -2128,12 +2128,12 @@ D: Medio, 2D, 2(DF).
       <entryGroups>
         <entryGroup id="5286-f528-6635-4ec9" name="Discos Pequeños" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries>
-            <entry id="260e-b412-037a-43a0" name="Corredores de Sombras" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="260e-b412-037a-43a0" name="Corredores de alcantarillas" points="-7.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1000.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
               <rules>
-                <rule id="bf99-57b2-045c-08ae" name="Corredores de Sombras" hidden="false">
+                <rule id="bf99-57b2-045c-08ae" name="Corredores de alcantarillas" hidden="false">
                   <description>Infantería. Disparo. Batida.
 D: Medio, 2D, 2(DF).
 </description>
@@ -2141,7 +2141,7 @@ D: Medio, 2D, 2(DF).
                 </rule>
               </rules>
               <profiles>
-                <profile id="ad55-d3fb-0832-a1a0" profileTypeId="7628-fefb-3693-417e" name="Corredores de Sombras" hidden="false">
+                <profile id="ad55-d3fb-0832-a1a0" profileTypeId="7628-fefb-3693-417e" name="Corredores de alcantarillas" hidden="false">
                   <characteristics>
                     <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value" value="-"/>
                     <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement" value="6"/>

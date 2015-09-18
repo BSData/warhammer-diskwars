@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="9114-aa47-3cd9-0e45" revision="3" battleScribeVersion="1.15" name="Warhammer Diskwars" books="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="9114-aa47-3cd9-0e45" revision="5" battleScribeVersion="1.15" name="Warhammer Diskwars" books="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <forceTypes>
     <forceType id="a027-1c3e-2543-a06e" name="Standard" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
       <categories>
@@ -63,6 +63,12 @@
         <category id="a206-9f53-cb95-ef75" name="Cartas de Mando" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
           <modifiers/>
         </category>
+        <category id="5f49-be7f-dff1-2c15" name=" Terrain" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
+          <modifiers/>
+        </category>
+        <category id="be75-81b4-e83e-59a1" name=" Terreno" minSelections="5" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minPercentage="0" maxPercentage="-1" countTowardsParentMinSelections="false" countTowardsParentMaxSelections="false" countTowardsParentMinPoints="false" countTowardsParentMaxPoints="false" countTowardsParentMinPercentage="false" countTowardsParentMaxPercentage="false">
+          <modifiers/>
+        </category>
       </categories>
       <forceTypes/>
     </forceType>
@@ -87,6 +93,15 @@
         <characteristic id="6212-34ac-6fc3-07bb" name="Strategy"/>
         <characteristic id="b3ff-3bf8-5224-0687" name="Text"/>
         <characteristic id="2f14-1a61-022b-b9da" name="Set"/>
+      </characteristics>
+    </profileType>
+    <profileType id="86e6-1ad4-4d38-1e1a" name="Terrain">
+      <characteristics>
+        <characteristic id="a4a7-b3f0-8fa0-88a0" name="Name"/>
+        <characteristic id="8978-8eb1-926c-ebdf" name="Description"/>
+        <characteristic id="3b61-1ae4-5aa1-394c" name=" Name"/>
+        <characteristic id="dff4-8d72-64d5-6f38" name=" Description"/>
+        <characteristic id="0e09-f494-71c1-6b89" name="Expansion"/>
       </characteristics>
     </profileType>
   </profileTypes>
