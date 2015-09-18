@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="1e65-9499-3f73-8d1a" revision="5" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name=" Order (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="1e65-9499-3f73-8d1a" revision="6" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name=" Order (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="9010-8557-8cab-9d0e" name=" Order Command Cards" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -12,6 +12,143 @@
           <modifiers/>
         </link>
       </links>
+    </entry>
+    <entry id="9b9f-d656-22a8-2739" name=" Terrains" points="0.0" categoryId="5f49-be7f-dff1-2c15" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="5" minInRoster="0" maxInRoster="5" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="61fa-b5e3-c9ea-321c" name="Garden of Morr / Farmstead " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="LoD">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="6e5e-65a4-fbfe-5bdf" name="Garden of Morr / Farmstead " hidden="false">
+              <description>Garden of Morr:
+Rough. Vampire caster disks overlapping this terrain gain reanimate 1.
+
+
+Farmstead:
+Cover.
+Disk overlapping this terrain gain stalwart.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="79f7-4ee2-38e8-0425" name="Lake / Hill" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="519d-f27b-80a0-f391" name="Lake / Hill" hidden="false">
+              <description>Lake:
+Rough.
+Disks without flying or strider cannot be deployed overlapping this terrain.
+
+
+Hill:
+Blocks Sight. Rough. Defensive. High Ground.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="0d38-1af6-5db1-23f8" name="Large Woods / Swamp" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="56bb-0e25-ee85-6d41" name="Large Woods / Swamp" hidden="false">
+              <description>Large Woods:
+Blocks Sight. Rough. Cover.
+
+
+Swamp:
+A disk must stop moving if it flips and overlaps this terrain.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="fc51-ac4a-f3a2-f552" name="Mine Entrance / Dwarf Forge " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="HaH">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="49e6-35e6-c659-e2d2" name="Mine Entrance / Dwarf Forge " hidden="false">
+              <description>Mine Entrance:
+Fortified.
+When you place this terrain, you may deploy 1 small or medium disk overlapping it.
+
+Dwarf Forge:
+Defensive, Cover.
+If a player controls this terrain, ally heroes gain runesmith.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="6f87-8e17-7867-bdff" name="Rocks / Gully" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="1ee2-6f91-1e8d-3c69" name="Rocks / Gully" hidden="false">
+              <description>Rocks:
+Cover. Fortified
+
+Gully:
+Rough. Dangerous.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="120c-4466-682c-8ca8" name="Ruined Windmill / Watchtower " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="13cf-5f34-70cf-fa12" name="Ruined Windmill / Watchtower " hidden="false">
+              <description>Ruined Windmill:
+If a player controls this terrain, he can reinforce disks overlapping it; no more than one disk can be reinforced per command card.
+
+Watchtower:
+Blocks Sight. Cover. Fortified. High Ground.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="9518-d4da-1071-566e" name="Small Woods / Cave" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="bf8d-6b41-88af-acd4" name="Small Woods / Cave" hidden="false">
+              <description>Small Woods:
+Blocks Sight. Rough. Cover.
+
+
+Cave:
+Fortified.
+A disk overlapping this terrain cannot target or be targeted by a disk that is not overlapping this terrain. Disk that are pinning each other ignore this.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links/>
     </entry>
     <entry id="005d-0b9c-e715-f537" name="Alarielle the Radiant" points="35.0" categoryId="2794-501f-f100-425b" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>

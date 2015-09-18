@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="2085-64da-8674-6dda" revision="5" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name=" Destruction (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="2085-64da-8674-6dda" revision="6" gameSystemId="9114-aa47-3cd9-0e45" gameSystemRevision="1" battleScribeVersion="1.15" name=" Destruction (2015.2)" books="Basic+HaH+LoD" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="2cdc-6500-39fe-3fef" name=" Destruction Command Cards" points="0.0" categoryId="a3fc-2f61-3a44-3b05" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -13,17 +13,142 @@
         </link>
       </links>
     </entry>
-    <entry id="58b9-3719-ab84-2293" name=" Terrains" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-      <entries/>
+    <entry id="06d2-0610-cc5e-4881" name=" Terrains" points="0.0" categoryId="be75-81b4-e83e-59a1" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="1daa-c150-727d-1c65" name="Garden of Morr / Farmstead " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="LoD">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="d59b-89e8-e402-9fff" name="Garden of Morr / Farmstead " hidden="false">
+              <description>Garden of Morr:
+Rough. Vampire caster disks overlapping this terrain gain reanimate 1.
+
+
+Farmstead:
+Cover.
+Disk overlapping this terrain gain stalwart.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="642b-5b7e-56b4-451e" name="Lake / Hill" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="62fd-7b5f-b86c-dc18" name="Lake / Hill" hidden="false">
+              <description>Lake:
+Rough.
+Disks without flying or strider cannot be deployed overlapping this terrain.
+
+
+Hill:
+Blocks Sight. Rough. Defensive. High Ground.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="897f-134c-1934-370b" name="Large Woods / Swamp" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="20d3-47e3-86e6-0915" name="Large Woods / Swamp" hidden="false">
+              <description>Large Woods:
+Blocks Sight. Rough. Cover.
+
+
+Swamp:
+A disk must stop moving if it flips and overlaps this terrain.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="8763-d72e-c352-1d9f" name="Mine Entrance / Dwarf Forge " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="HaH">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="55bd-1019-5048-f09d" name="Mine Entrance / Dwarf Forge " hidden="false">
+              <description>Mine Entrance:
+Fortified.
+When you place this terrain, you may deploy 1 small or medium disk overlapping it.
+
+Dwarf Forge:
+Defensive, Cover.
+If a player controls this terrain, ally heroes gain runesmith.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="5d8f-4398-0b26-7d8b" name="Rocks / Gully" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="ca8c-71dd-81c1-ac01" name="Rocks / Gully" hidden="false">
+              <description>Rocks:
+Cover. Fortified
+
+Gully:
+Rough. Dangerous.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="8fab-53bb-9b21-9393" name="Ruined Windmill / Watchtower " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="c126-0bdc-ee83-4b35" name="Ruined Windmill / Watchtower " hidden="false">
+              <description>Ruined Windmill:
+If a player controls this terrain, he can reinforce disks overlapping it; no more than one disk can be reinforced per command card.
+
+Watchtower:
+Blocks Sight. Cover. Fortified. High Ground.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="aacb-2180-fa4c-70cb" name="Small Woods / Cave" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="9308-c6c4-55c1-85fa" name="Small Woods / Cave" hidden="false">
+              <description>Small Woods:
+Blocks Sight. Rough. Cover.
+
+
+Cave:
+Fortified.
+A disk overlapping this terrain cannot target or be targeted by a disk that is not overlapping this terrain. Disk that are pinning each other ignore this.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+      </entries>
       <entryGroups/>
       <modifiers/>
       <rules/>
       <profiles/>
-      <links>
-        <link id="baab-6302-037d-392f" targetId="e726-8a43-d81e-44f4" linkType="entry group">
-          <modifiers/>
-        </link>
-      </links>
+      <links/>
     </entry>
     <entry id="885a-4a75-7079-f4bc" name="Archaon the Everchosen" points="33.0" categoryId="3db3-9cc8-9919-873c" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
@@ -1913,36 +2038,6 @@ Deal 2(PD) to each disk you resolve (scatter) against instead of rerolling (scat
           <links/>
         </entryGroup>
       </entryGroups>
-      <modifiers/>
-      <links/>
-    </entryGroup>
-    <entryGroup id="e726-8a43-d81e-44f4" name="Terrains" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="true">
-      <entries>
-        <entry id="45e1-b8c2-feb5-4771" name="Dwarf Forge / Mine Entrance " points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules/>
-          <profiles>
-            <profile id="a522-b046-291f-96dd" profileTypeId="7628-fefb-3693-417e" name="Dwarf Forge / Mine Entrance " hidden="false">
-              <characteristics>
-                <characteristic characteristicId="17b8-3a03-7612-ad9f" name="Command value"/>
-                <characteristic characteristicId="fef6-a922-cf30-161a" name="Movement"/>
-                <characteristic characteristicId="f804-fc8d-6ea7-400b" name="Attack Strength"/>
-                <characteristic characteristicId="aca7-dd8f-942c-d3ad" name="Counter Strength"/>
-                <characteristic characteristicId="3800-c01a-51a7-0071" name="Toughness"/>
-                <characteristic characteristicId="98d7-a878-bbd6-a312" name="Stamina"/>
-                <characteristic characteristicId="c768-036f-fcb5-b9a5" name="Size"/>
-                <characteristic characteristicId="f615-519c-a22e-ceb4" name="Set"/>
-                <characteristic characteristicId="f188-a474-6d55-44f0" name="Points"/>
-              </characteristics>
-              <modifiers/>
-            </profile>
-          </profiles>
-          <links/>
-        </entry>
-      </entries>
-      <entryGroups/>
       <modifiers/>
       <links/>
     </entryGroup>
